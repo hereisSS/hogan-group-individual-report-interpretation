@@ -1,0 +1,40 @@
+{
+  "data_kind": "synthetic_example_only",
+  "task_mode": "both",
+  "batch_label": "演示批次",
+  "year": "2099",
+  "expected_count": 3,
+  "display_names": "random_codes",
+  "mean_basis": "current_batch_includes_self",
+  "template_choice": "bundled_blank_templates",
+  "work_context": {
+    "role_type": "请由用户填写",
+    "stage": "请由用户填写",
+    "typical_tasks": [
+      "请由用户填写，不含客户机密"
+    ]
+  },
+  "audience": "由任务负责人确认",
+  "authorization": {
+    "authorized_to_provide": false,
+    "approved_environment_confirmed": false,
+    "external_transfer_allowed": false,
+    "full_name_display_allowed": false
+  },
+  "notes": "全部为格式占位；权限必须由实际任务负责人确认，本示例不构成授权。",
+  "group_profile": "management12",
+  "include_development_advice": true,
+  "charts": {
+    "include_median": true
+  },
+  "identity_mapping_confirmed": false,
+  "show_identity_mapping": false,
+  "heatmap": {
+    "label_scheme": "source_labels",
+    "source_intervals_confirmed": false,
+    "source_reference": "",
+    "display_labels_confirmed": false,
+    "display_reference": "",
+    "bands": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data_kind": "synthetic_example_only",
+  "description": "以下是独立构造的条件性写法示范，无真实人员和分值；来源定位亦为演示，正式使用必须替换。",
+  "cards": [
+    {
+      "kind": "core_profile",
+      "primary_scale": "HPI",
+      "title": "愿意提出新办法，做事重准备和安排",
+      "behavior": "倾向先理解任务和相关知识，再提出做法，并将要求与步骤安排清楚。",
+      "basis_type": "work_hypothesis",
+      "uncertainty_disclosed": true,
+      "evidence": [
+        {
+          "source": "synthetic_report_only",
+          "locator": "演示位置：HPI好奇与审慎解释",
+          "kind": "synthetic"
+        }
+      ]
+    },
+    {
+      "kind": "risk",
+      "title": "需求调整时，需关注标准取舍与交付时间",
+      "scene": "需求或验收标准已发生变化时",
+      "behavior": "仍可能继续完善原计划中的细节。",
+      "work_impact": "可能把时间用在不再需要的内容上，增加返工并延后交付。",
+      "observation": "观察是否及时确认新的交付范围和优先级。",
+      "support_action": "先与需求方确认本次必交范围与后续优化项，再调整排期。",
+      "requires_support": true,
+      "basis_type": "work_hypothesis",
+      "uncertainty_disclosed": true,
+      "evidence": [
+        {
+          "source": "synthetic_report_only",
+          "locator": "演示位置：经核对的做事风格及具体条件",
+          "kind": "synthetic"
+        }
+      ]
+    },
+    {
+      "kind": "advantage",
+      "title": "愿意补充知识，可为进入新任务提供支持",
+      "scene": "接触不熟悉的任务时",
+      "behavior": "倾向查找资料、学习方法，再参与方案讨论。",
+      "work_impact": "有助于理解任务并形成初步方案；不直接证明方案质量。",
+      "observation": "观察提出的方案能否回应关键问题并完成实际任务。",
+      "basis_type": "work_hypothesis",
+      "uncertainty_disclosed": true,
+      "evidence": [
+        {
+          "source": "synthetic_report_only",
+          "locator": "演示位置：学习方式定义与详页",
+          "kind": "synthetic"
+        }
+      ]
+    }
+  ]
+}

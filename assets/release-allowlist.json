@@ -1,0 +1,14 @@
+{
+  "reviewed_on": "2026-10-15",
+  "review_scope": "New blank templates, all eleven pages rendered and visually inspected. No original report/media/score data retained. Hashes are version checks, not privacy certification.",
+  "reviewed_binaries": {
+    "assets/templates/individual-report-template.pptx": "8ee0b290f5f0953e8f3992403309c3a0f1edaaaba76f8406958a38340daf48c7",
+    "assets/templates/group-report-template.pptx": "88588d7efff1d2a22bb952f4ebd3d8e545122532da7a8647970a5b59d10b303f",
+    "assets/previews/individual-template.png": "e092eb0242127557ca23ced2ed774481072625386606361c00797ff7b3d999e0",
+    "assets/previews/group-template-contact.png": "a573bd8e79d15a7c42dc1143e5401d850ec4229fbcfd99b878cf8ab2bed01ef8",
+    "assets/templates/group-management-template.pptx": "cfbd0ed6e2eb836f1d2382ccfb57c9141f06f77ea84c9885944bbacc1a841370",
+    "assets/previews/management-template-contact.png": "73fa271e90a9b1a663bc7759c9fcac1a17552bcdb8fe81a84b7891423e47d4fb",
+    "assets/previews/management-summary-template.png": "1ce4102c3c1ce8a8902b2ee9576167fe98fce2528048508c4d0a2ea02737ac22"
+  },
+  "review_note_v2_1": "新建12页模板已渲染并逐页查看联系图；第4/8/11/12页另作大图检查；无原报告媒体/分数/身份信息。哈希只验证版本。"
+}

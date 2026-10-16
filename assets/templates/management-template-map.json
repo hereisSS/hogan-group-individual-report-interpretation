@@ -1,0 +1,6039 @@
+{
+  "filename": "group-management-template.pptx",
+  "profile": "management12",
+  "size_inches": [
+    13.333333,
+    7.5
+  ],
+  "page_count": 12,
+  "pages": [
+    {
+      "page": 1,
+      "fields": [
+        {
+          "name": "cover.blue",
+          "shape_id": 2,
+          "x": 0.8,
+          "y": 1.2,
+          "w": 0.1,
+          "h": 3.0,
+          "placeholder": ""
+        },
+        {
+          "name": "cover.red",
+          "shape_id": 3,
+          "x": 0.8,
+          "y": 4.31,
+          "w": 0.1,
+          "h": 0.53,
+          "placeholder": ""
+        },
+        {
+          "name": "cover.kicker",
+          "shape_id": 4,
+          "x": 1.14,
+          "y": 1.2,
+          "w": 10.7,
+          "h": 0.52,
+          "placeholder": "{届别 / 培养项目 / 批次}"
+        },
+        {
+          "name": "cover.title",
+          "shape_id": 5,
+          "x": 1.12,
+          "y": 2.03,
+          "w": 8.6,
+          "h": 1.65,
+          "placeholder": "Hogan\n群体分析报告"
+        },
+        {
+          "name": "cover.subtitle",
+          "shape_id": 6,
+          "x": 1.14,
+          "y": 4.06,
+          "w": 10.7,
+          "h": 0.39,
+          "placeholder": "日常风格  ·  压力风险  ·  动机价值偏好"
+        },
+        {
+          "name": "cover.scope",
+          "shape_id": 7,
+          "x": 1.14,
+          "y": 4.77,
+          "w": 10.7,
+          "h": 0.35,
+          "placeholder": "样本 {N} 人  |  {分析目的 / 报告日期}"
+        },
+        {
+          "name": "cover.readme.bg",
+          "shape_id": 8,
+          "x": 1.13,
+          "y": 5.63,
+          "w": 11.06,
+          "h": 0.64,
+          "placeholder": ""
+        },
+        {
+          "name": "cover.readme",
+          "shape_id": 9,
+          "x": 1.38,
+          "y": 5.77,
+          "w": 10.54,
+          "h": 0.29,
+          "placeholder": "看见群体共性与内部差异，具体说明对工作有哪些可能影响。"
+        },
+        {
+          "name": "cover.footer",
+          "shape_id": 10,
+          "x": 1.14,
+          "y": 6.85,
+          "w": 10.8,
+          "h": 0.25,
+          "placeholder": "内部使用  |  空白模板，不含真实测评信息"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "fields": [
+        {
+          "name": "p2.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p2.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "整体画像：{先用一句话概括这批人的共同特点}"
+        },
+        {
+          "name": "p2.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "群体结论  /  先说行为与工作影响，再给少量数据"
+        },
+        {
+          "name": "p2.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "02"
+        },
+        {
+          "name": "p2.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p2.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "p2.summary.bg",
+          "shape_id": 10,
+          "x": 0.56,
+          "y": 1.49,
+          "w": 12.22,
+          "h": 0.55,
+          "placeholder": ""
+        },
+        {
+          "name": "p2.summary",
+          "shape_id": 11,
+          "x": 0.78,
+          "y": 1.59,
+          "w": 11.77,
+          "h": 0.31,
+          "placeholder": "[两三种主要做事倾向怎样组合？对当前工作最值得关注的是什么？]"
+        },
+        {
+          "name": "p2.可发挥的优势.heading",
+          "shape_id": 12,
+          "x": 0.58,
+          "y": 2.18,
+          "w": 5.72,
+          "h": 0.34,
+          "placeholder": "可发挥的优势"
+        },
+        {
+          "name": "p2.可发挥的优势.0.num",
+          "shape_id": 13,
+          "x": 0.63,
+          "y": 2.7,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "1"
+        },
+        {
+          "name": "p2.可发挥的优势.0.title",
+          "shape_id": 14,
+          "x": 1.02,
+          "y": 2.68,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论1：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.可发挥的优势.0.body",
+          "shape_id": 15,
+          "x": 1.02,
+          "y": 3.02,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.可发挥的优势.0.evidence",
+          "shape_id": 16,
+          "x": 1.02,
+          "y": 3.47,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        },
+        {
+          "name": "p2.可发挥的优势.1.bg",
+          "shape_id": 17,
+          "x": 0.52,
+          "y": 3.67,
+          "w": 5.9,
+          "h": 0.95,
+          "placeholder": ""
+        },
+        {
+          "name": "p2.可发挥的优势.1.num",
+          "shape_id": 18,
+          "x": 0.63,
+          "y": 3.73,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "2"
+        },
+        {
+          "name": "p2.可发挥的优势.1.title",
+          "shape_id": 19,
+          "x": 1.02,
+          "y": 3.71,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论2：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.可发挥的优势.1.body",
+          "shape_id": 20,
+          "x": 1.02,
+          "y": 4.05,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.可发挥的优势.1.evidence",
+          "shape_id": 21,
+          "x": 1.02,
+          "y": 4.5,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        },
+        {
+          "name": "p2.可发挥的优势.2.num",
+          "shape_id": 22,
+          "x": 0.63,
+          "y": 4.76,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "3"
+        },
+        {
+          "name": "p2.可发挥的优势.2.title",
+          "shape_id": 23,
+          "x": 1.02,
+          "y": 4.74,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论3：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.可发挥的优势.2.body",
+          "shape_id": 24,
+          "x": 1.02,
+          "y": 5.08,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.可发挥的优势.2.evidence",
+          "shape_id": 25,
+          "x": 1.02,
+          "y": 5.53,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        },
+        {
+          "name": "p2.可发挥的优势.3.bg",
+          "shape_id": 26,
+          "x": 0.52,
+          "y": 5.73,
+          "w": 5.9,
+          "h": 0.95,
+          "placeholder": ""
+        },
+        {
+          "name": "p2.可发挥的优势.3.num",
+          "shape_id": 27,
+          "x": 0.63,
+          "y": 5.79,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "4"
+        },
+        {
+          "name": "p2.可发挥的优势.3.title",
+          "shape_id": 28,
+          "x": 1.02,
+          "y": 5.77,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论4：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.可发挥的优势.3.body",
+          "shape_id": 29,
+          "x": 1.02,
+          "y": 6.11,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.可发挥的优势.3.evidence",
+          "shape_id": 30,
+          "x": 1.02,
+          "y": 6.56,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        },
+        {
+          "name": "p2.重点关注的工作影响.heading",
+          "shape_id": 31,
+          "x": 6.88,
+          "y": 2.18,
+          "w": 5.72,
+          "h": 0.34,
+          "placeholder": "重点关注的工作影响"
+        },
+        {
+          "name": "p2.重点关注的工作影响.0.num",
+          "shape_id": 32,
+          "x": 6.93,
+          "y": 2.7,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "1"
+        },
+        {
+          "name": "p2.重点关注的工作影响.0.title",
+          "shape_id": 33,
+          "x": 7.32,
+          "y": 2.68,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论1：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.0.body",
+          "shape_id": 34,
+          "x": 7.32,
+          "y": 3.02,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.0.evidence",
+          "shape_id": 35,
+          "x": 7.32,
+          "y": 3.47,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        },
+        {
+          "name": "p2.重点关注的工作影响.1.bg",
+          "shape_id": 36,
+          "x": 6.82,
+          "y": 3.67,
+          "w": 5.9,
+          "h": 0.95,
+          "placeholder": ""
+        },
+        {
+          "name": "p2.重点关注的工作影响.1.num",
+          "shape_id": 37,
+          "x": 6.93,
+          "y": 3.73,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "2"
+        },
+        {
+          "name": "p2.重点关注的工作影响.1.title",
+          "shape_id": 38,
+          "x": 7.32,
+          "y": 3.71,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论2：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.1.body",
+          "shape_id": 39,
+          "x": 7.32,
+          "y": 4.05,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.1.evidence",
+          "shape_id": 40,
+          "x": 7.32,
+          "y": 4.5,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        },
+        {
+          "name": "p2.重点关注的工作影响.2.num",
+          "shape_id": 41,
+          "x": 6.93,
+          "y": 4.76,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "3"
+        },
+        {
+          "name": "p2.重点关注的工作影响.2.title",
+          "shape_id": 42,
+          "x": 7.32,
+          "y": 4.74,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论3：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.2.body",
+          "shape_id": 43,
+          "x": 7.32,
+          "y": 5.08,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.2.evidence",
+          "shape_id": 44,
+          "x": 7.32,
+          "y": 5.53,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        },
+        {
+          "name": "p2.重点关注的工作影响.3.bg",
+          "shape_id": 45,
+          "x": 6.82,
+          "y": 5.73,
+          "w": 5.9,
+          "h": 0.95,
+          "placeholder": ""
+        },
+        {
+          "name": "p2.重点关注的工作影响.3.num",
+          "shape_id": 46,
+          "x": 6.93,
+          "y": 5.79,
+          "w": 0.28,
+          "h": 0.28,
+          "placeholder": "4"
+        },
+        {
+          "name": "p2.重点关注的工作影响.3.title",
+          "shape_id": 47,
+          "x": 7.32,
+          "y": 5.77,
+          "w": 5.17,
+          "h": 0.28,
+          "placeholder": "[结论4：用完整的一句话说明]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.3.body",
+          "shape_id": 48,
+          "x": 7.32,
+          "y": 6.11,
+          "w": 5.17,
+          "h": 0.4,
+          "placeholder": "[具体任务中可能怎样做，\n给进度、交付或合作带来什么影响。]"
+        },
+        {
+          "name": "p2.重点关注的工作影响.3.evidence",
+          "shape_id": 49,
+          "x": 7.32,
+          "y": 6.56,
+          "w": 5.17,
+          "h": 0.18,
+          "placeholder": "依据：{关键分值 / 人数 / 分布}"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "fields": [
+        {
+          "name": "p3.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "均值与中位值：{哪些接近，哪些还要看内部差异}"
+        },
+        {
+          "name": "p3.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "数据概览  /  同一批原分计算；统计不等于能力得分"
+        },
+        {
+          "name": "p3.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "03"
+        },
+        {
+          "name": "p3.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p3.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "p3.HPI.header.bg",
+          "shape_id": 10,
+          "x": 0.6,
+          "y": 1.53,
+          "w": 3.97,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HPI.header",
+          "shape_id": 11,
+          "x": 0.75,
+          "y": 1.62,
+          "w": 3.66,
+          "h": 0.26,
+          "placeholder": "HPI"
+        },
+        {
+          "name": "p3.HPI.summary",
+          "shape_id": 12,
+          "x": 0.75,
+          "y": 1.97,
+          "w": 3.66,
+          "h": 0.25,
+          "placeholder": "[该量表最主要的共性或分化]"
+        },
+        {
+          "name": "p3.HPI.chart.band0",
+          "shape_id": 13,
+          "x": 0.88,
+          "y": 2.84,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HPI.chart.band1",
+          "shape_id": 14,
+          "x": 0.88,
+          "y": 3.5325,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HPI.chart.band2",
+          "shape_id": 15,
+          "x": 0.88,
+          "y": 4.225,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HPI.chart.band3",
+          "shape_id": 16,
+          "x": 0.88,
+          "y": 4.9175,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HPI.chart.tick0",
+          "shape_id": 18,
+          "x": 0.58,
+          "y": 2.74,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "100"
+        },
+        {
+          "name": "p3.HPI.chart.tick1",
+          "shape_id": 20,
+          "x": 0.58,
+          "y": 3.4325,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "75"
+        },
+        {
+          "name": "p3.HPI.chart.tick2",
+          "shape_id": 22,
+          "x": 0.58,
+          "y": 4.125,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "50"
+        },
+        {
+          "name": "p3.HPI.chart.tick3",
+          "shape_id": 24,
+          "x": 0.58,
+          "y": 4.8175,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "25"
+        },
+        {
+          "name": "p3.HPI.chart.tick4",
+          "shape_id": 26,
+          "x": 0.58,
+          "y": 5.51,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "0"
+        },
+        {
+          "name": "p3.HPI.chart.dim0",
+          "shape_id": 27,
+          "x": 0.88,
+          "y": 5.71,
+          "w": 0.51,
+          "h": 0.43,
+          "placeholder": "调适"
+        },
+        {
+          "name": "p3.HPI.chart.dim1",
+          "shape_id": 28,
+          "x": 1.39,
+          "y": 5.71,
+          "w": 0.51,
+          "h": 0.43,
+          "placeholder": "抱负"
+        },
+        {
+          "name": "p3.HPI.chart.dim2",
+          "shape_id": 29,
+          "x": 1.9,
+          "y": 5.71,
+          "w": 0.51,
+          "h": 0.43,
+          "placeholder": "社交"
+        },
+        {
+          "name": "p3.HPI.chart.dim3",
+          "shape_id": 30,
+          "x": 2.41,
+          "y": 5.71,
+          "w": 0.51,
+          "h": 0.43,
+          "placeholder": "人际\n敏感度"
+        },
+        {
+          "name": "p3.HPI.chart.dim4",
+          "shape_id": 31,
+          "x": 2.92,
+          "y": 5.71,
+          "w": 0.51,
+          "h": 0.43,
+          "placeholder": "审慎"
+        },
+        {
+          "name": "p3.HPI.chart.dim5",
+          "shape_id": 32,
+          "x": 3.43,
+          "y": 5.71,
+          "w": 0.51,
+          "h": 0.43,
+          "placeholder": "好奇"
+        },
+        {
+          "name": "p3.HPI.chart.dim6",
+          "shape_id": 33,
+          "x": 3.94,
+          "y": 5.71,
+          "w": 0.51,
+          "h": 0.43,
+          "placeholder": "学习\n方式"
+        },
+        {
+          "name": "p3.HPI.chart.replace",
+          "shape_id": 34,
+          "x": 0.94,
+          "y": 4.0311,
+          "w": 3.45,
+          "h": 0.48,
+          "placeholder": "[均值 / 中位值折线；数值直接标在点位旁]"
+        },
+        {
+          "name": "p3.HPI.foot",
+          "shape_id": 35,
+          "x": 0.72,
+          "y": 6.29,
+          "w": 3.72,
+          "h": 0.44,
+          "placeholder": "[结合范围和分布解释，不用均值代替个人。]"
+        },
+        {
+          "name": "p3.HDS.header.bg",
+          "shape_id": 36,
+          "x": 4.79,
+          "y": 1.53,
+          "w": 3.97,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HDS.header",
+          "shape_id": 37,
+          "x": 4.94,
+          "y": 1.62,
+          "w": 3.66,
+          "h": 0.26,
+          "placeholder": "HDS"
+        },
+        {
+          "name": "p3.HDS.summary",
+          "shape_id": 38,
+          "x": 4.94,
+          "y": 1.97,
+          "w": 3.66,
+          "h": 0.25,
+          "placeholder": "[该量表最主要的共性或分化]"
+        },
+        {
+          "name": "p3.HDS.chart.band0",
+          "shape_id": 39,
+          "x": 5.07,
+          "y": 2.84,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HDS.chart.band1",
+          "shape_id": 40,
+          "x": 5.07,
+          "y": 3.5325,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HDS.chart.band2",
+          "shape_id": 41,
+          "x": 5.07,
+          "y": 4.225,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HDS.chart.band3",
+          "shape_id": 42,
+          "x": 5.07,
+          "y": 4.9175,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.HDS.chart.tick0",
+          "shape_id": 44,
+          "x": 4.77,
+          "y": 2.74,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "100"
+        },
+        {
+          "name": "p3.HDS.chart.tick1",
+          "shape_id": 46,
+          "x": 4.77,
+          "y": 3.4325,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "75"
+        },
+        {
+          "name": "p3.HDS.chart.tick2",
+          "shape_id": 48,
+          "x": 4.77,
+          "y": 4.125,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "50"
+        },
+        {
+          "name": "p3.HDS.chart.tick3",
+          "shape_id": 50,
+          "x": 4.77,
+          "y": 4.8175,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "25"
+        },
+        {
+          "name": "p3.HDS.chart.tick4",
+          "shape_id": 52,
+          "x": 4.77,
+          "y": 5.51,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "0"
+        },
+        {
+          "name": "p3.HDS.chart.dim0",
+          "shape_id": 53,
+          "x": 5.07,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "激动"
+        },
+        {
+          "name": "p3.HDS.chart.dim1",
+          "shape_id": 54,
+          "x": 5.3945,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "多疑"
+        },
+        {
+          "name": "p3.HDS.chart.dim2",
+          "shape_id": 55,
+          "x": 5.7191,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "谨慎"
+        },
+        {
+          "name": "p3.HDS.chart.dim3",
+          "shape_id": 56,
+          "x": 6.0436,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "内敛"
+        },
+        {
+          "name": "p3.HDS.chart.dim4",
+          "shape_id": 57,
+          "x": 6.3682,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "消极"
+        },
+        {
+          "name": "p3.HDS.chart.dim5",
+          "shape_id": 58,
+          "x": 6.6927,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "自大"
+        },
+        {
+          "name": "p3.HDS.chart.dim6",
+          "shape_id": 59,
+          "x": 7.0173,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "狡猾"
+        },
+        {
+          "name": "p3.HDS.chart.dim7",
+          "shape_id": 60,
+          "x": 7.3418,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "戏剧\n化"
+        },
+        {
+          "name": "p3.HDS.chart.dim8",
+          "shape_id": 61,
+          "x": 7.6664,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "幻想"
+        },
+        {
+          "name": "p3.HDS.chart.dim9",
+          "shape_id": 62,
+          "x": 7.9909,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "苛求"
+        },
+        {
+          "name": "p3.HDS.chart.dim10",
+          "shape_id": 63,
+          "x": 8.3155,
+          "y": 5.71,
+          "w": 0.3245,
+          "h": 0.43,
+          "placeholder": "恭顺"
+        },
+        {
+          "name": "p3.HDS.chart.replace",
+          "shape_id": 64,
+          "x": 5.13,
+          "y": 4.0311,
+          "w": 3.45,
+          "h": 0.48,
+          "placeholder": "[均值 / 中位值折线；数值直接标在点位旁]"
+        },
+        {
+          "name": "p3.HDS.foot",
+          "shape_id": 65,
+          "x": 4.91,
+          "y": 6.29,
+          "w": 3.72,
+          "h": 0.44,
+          "placeholder": "[结合范围和分布解释，不用均值代替个人。]"
+        },
+        {
+          "name": "p3.MVPI.header.bg",
+          "shape_id": 66,
+          "x": 8.98,
+          "y": 1.53,
+          "w": 3.97,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.MVPI.header",
+          "shape_id": 67,
+          "x": 9.13,
+          "y": 1.62,
+          "w": 3.66,
+          "h": 0.26,
+          "placeholder": "MVPI"
+        },
+        {
+          "name": "p3.MVPI.summary",
+          "shape_id": 68,
+          "x": 9.13,
+          "y": 1.97,
+          "w": 3.66,
+          "h": 0.25,
+          "placeholder": "[该量表最主要的共性或分化]"
+        },
+        {
+          "name": "p3.MVPI.chart.band0",
+          "shape_id": 69,
+          "x": 9.26,
+          "y": 2.84,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.MVPI.chart.band1",
+          "shape_id": 70,
+          "x": 9.26,
+          "y": 3.5325,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.MVPI.chart.band2",
+          "shape_id": 71,
+          "x": 9.26,
+          "y": 4.225,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.MVPI.chart.band3",
+          "shape_id": 72,
+          "x": 9.26,
+          "y": 4.9175,
+          "w": 3.57,
+          "h": 0.6925,
+          "placeholder": ""
+        },
+        {
+          "name": "p3.MVPI.chart.tick0",
+          "shape_id": 74,
+          "x": 8.96,
+          "y": 2.74,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "100"
+        },
+        {
+          "name": "p3.MVPI.chart.tick1",
+          "shape_id": 76,
+          "x": 8.96,
+          "y": 3.4325,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "75"
+        },
+        {
+          "name": "p3.MVPI.chart.tick2",
+          "shape_id": 78,
+          "x": 8.96,
+          "y": 4.125,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "50"
+        },
+        {
+          "name": "p3.MVPI.chart.tick3",
+          "shape_id": 80,
+          "x": 8.96,
+          "y": 4.8175,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "25"
+        },
+        {
+          "name": "p3.MVPI.chart.tick4",
+          "shape_id": 82,
+          "x": 8.96,
+          "y": 5.51,
+          "w": 0.26,
+          "h": 0.2,
+          "placeholder": "0"
+        },
+        {
+          "name": "p3.MVPI.chart.dim0",
+          "shape_id": 83,
+          "x": 9.26,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "认可"
+        },
+        {
+          "name": "p3.MVPI.chart.dim1",
+          "shape_id": 84,
+          "x": 9.617,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "权力"
+        },
+        {
+          "name": "p3.MVPI.chart.dim2",
+          "shape_id": 85,
+          "x": 9.974,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "享乐"
+        },
+        {
+          "name": "p3.MVPI.chart.dim3",
+          "shape_id": 86,
+          "x": 10.331,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "利他"
+        },
+        {
+          "name": "p3.MVPI.chart.dim4",
+          "shape_id": 87,
+          "x": 10.688,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "归属"
+        },
+        {
+          "name": "p3.MVPI.chart.dim5",
+          "shape_id": 88,
+          "x": 11.045,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "传统"
+        },
+        {
+          "name": "p3.MVPI.chart.dim6",
+          "shape_id": 89,
+          "x": 11.402,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "保障"
+        },
+        {
+          "name": "p3.MVPI.chart.dim7",
+          "shape_id": 90,
+          "x": 11.759,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "商业"
+        },
+        {
+          "name": "p3.MVPI.chart.dim8",
+          "shape_id": 91,
+          "x": 12.116,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "美感"
+        },
+        {
+          "name": "p3.MVPI.chart.dim9",
+          "shape_id": 92,
+          "x": 12.473,
+          "y": 5.71,
+          "w": 0.357,
+          "h": 0.43,
+          "placeholder": "科学"
+        },
+        {
+          "name": "p3.MVPI.chart.replace",
+          "shape_id": 93,
+          "x": 9.32,
+          "y": 4.0311,
+          "w": 3.45,
+          "h": 0.48,
+          "placeholder": "[均值 / 中位值折线；数值直接标在点位旁]"
+        },
+        {
+          "name": "p3.MVPI.foot",
+          "shape_id": 94,
+          "x": 9.1,
+          "y": 6.29,
+          "w": 3.72,
+          "h": 0.44,
+          "placeholder": "[结合范围和分布解释，不用均值代替个人。]"
+        },
+        {
+          "name": "p3.legend.mean.text",
+          "shape_id": 96,
+          "x": 9.05,
+          "y": 6.7,
+          "w": 0.57,
+          "h": 0.27,
+          "placeholder": "均值"
+        },
+        {
+          "name": "p3.legend.median.text",
+          "shape_id": 98,
+          "x": 10.66,
+          "y": 6.7,
+          "w": 0.82,
+          "h": 0.27,
+          "placeholder": "中位值"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "fields": [
+        {
+          "name": "p4.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p4.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "HPI：{群体做事特点，以及需要区别看待的个体}"
+        },
+        {
+          "name": "p4.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "日常工作风格  /  群体共性 + 有依据的高低差异；不作能力排名"
+        },
+        {
+          "name": "p4.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "04"
+        },
+        {
+          "name": "p4.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p4.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "m4.radar.ring0.2",
+          "shape_id": 10,
+          "x": 3.0331,
+          "y": 3.2775,
+          "w": 0.5437,
+          "h": 0.5437,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.radar.ring0.4",
+          "shape_id": 11,
+          "x": 2.7613,
+          "y": 3.0057,
+          "w": 1.0874,
+          "h": 1.0874,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.radar.ring0.6",
+          "shape_id": 12,
+          "x": 2.4894,
+          "y": 2.7338,
+          "w": 1.6312,
+          "h": 1.6312,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.radar.ring0.8",
+          "shape_id": 13,
+          "x": 2.2176,
+          "y": 2.462,
+          "w": 2.1749,
+          "h": 2.1749,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.radar.ring1",
+          "shape_id": 14,
+          "x": 1.9457,
+          "y": 2.1901,
+          "w": 2.7186,
+          "h": 2.7186,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.radar.dim0",
+          "shape_id": 16,
+          "x": 2.705,
+          "y": 1.6796,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "调适"
+        },
+        {
+          "name": "m4.radar.dim1",
+          "shape_id": 18,
+          "x": 3.9909,
+          "y": 2.2989,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "抱负"
+        },
+        {
+          "name": "m4.radar.dim2",
+          "shape_id": 20,
+          "x": 4.3085,
+          "y": 3.6904,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "社交"
+        },
+        {
+          "name": "m4.radar.dim3",
+          "shape_id": 22,
+          "x": 3.4186,
+          "y": 4.8063,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "人际敏感度"
+        },
+        {
+          "name": "m4.radar.dim4",
+          "shape_id": 24,
+          "x": 1.9914,
+          "y": 4.8063,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "审慎"
+        },
+        {
+          "name": "m4.radar.dim5",
+          "shape_id": 26,
+          "x": 1.1015,
+          "y": 3.6904,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "好奇"
+        },
+        {
+          "name": "m4.radar.dim6",
+          "shape_id": 28,
+          "x": 1.4191,
+          "y": 2.2989,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "学习方式"
+        },
+        {
+          "name": "m4.radar.caption.bg",
+          "shape_id": 29,
+          "x": 1.658,
+          "y": 3.2394,
+          "w": 3.294,
+          "h": 0.62,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.radar.replace",
+          "shape_id": 30,
+          "x": 1.7129,
+          "y": 3.2594,
+          "w": 3.1842,
+          "h": 0.58,
+          "placeholder": "本批HPI群体雷达图\n均值 / 中位值 / 个体轮廓"
+        },
+        {
+          "name": "m4.finding0.bg",
+          "shape_id": 31,
+          "x": 6.26,
+          "y": 1.55,
+          "w": 6.48,
+          "h": 1.12,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.finding0.stripe",
+          "shape_id": 32,
+          "x": 6.38,
+          "y": 1.74,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.finding0.title",
+          "shape_id": 33,
+          "x": 6.5,
+          "y": 1.64,
+          "w": 6.09,
+          "h": 0.39,
+          "placeholder": "[群体结论1：具体怎样做事]"
+        },
+        {
+          "name": "m4.finding0.body",
+          "shape_id": 34,
+          "x": 6.5,
+          "y": 2.08,
+          "w": 6.02,
+          "h": 0.14,
+          "placeholder": "[在任务中的可能表现；对理解、推进或合作的影响。]"
+        },
+        {
+          "name": "m4.finding0.evidence",
+          "shape_id": 35,
+          "x": 6.5,
+          "y": 2.38,
+          "w": 6.03,
+          "h": 0.2,
+          "placeholder": "依据：{本批分布或关键统计}"
+        },
+        {
+          "name": "m4.finding1.bg",
+          "shape_id": 36,
+          "x": 6.26,
+          "y": 2.8,
+          "w": 6.48,
+          "h": 1.12,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.finding1.stripe",
+          "shape_id": 37,
+          "x": 6.38,
+          "y": 2.99,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.finding1.title",
+          "shape_id": 38,
+          "x": 6.5,
+          "y": 2.89,
+          "w": 6.09,
+          "h": 0.39,
+          "placeholder": "[群体结论2：具体怎样做事]"
+        },
+        {
+          "name": "m4.finding1.body",
+          "shape_id": 39,
+          "x": 6.5,
+          "y": 3.33,
+          "w": 6.02,
+          "h": 0.14,
+          "placeholder": "[在任务中的可能表现；对理解、推进或合作的影响。]"
+        },
+        {
+          "name": "m4.finding1.evidence",
+          "shape_id": 40,
+          "x": 6.5,
+          "y": 3.63,
+          "w": 6.03,
+          "h": 0.2,
+          "placeholder": "依据：{本批分布或关键统计}"
+        },
+        {
+          "name": "m4.finding2.bg",
+          "shape_id": 41,
+          "x": 6.26,
+          "y": 4.05,
+          "w": 6.48,
+          "h": 1.12,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.finding2.stripe",
+          "shape_id": 42,
+          "x": 6.38,
+          "y": 4.24,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.finding2.title",
+          "shape_id": 43,
+          "x": 6.5,
+          "y": 4.14,
+          "w": 6.09,
+          "h": 0.39,
+          "placeholder": "[群体结论3：具体怎样做事]"
+        },
+        {
+          "name": "m4.finding2.body",
+          "shape_id": 44,
+          "x": 6.5,
+          "y": 4.58,
+          "w": 6.02,
+          "h": 0.14,
+          "placeholder": "[在任务中的可能表现；对理解、推进或合作的影响。]"
+        },
+        {
+          "name": "m4.finding2.evidence",
+          "shape_id": 45,
+          "x": 6.5,
+          "y": 4.88,
+          "w": 6.03,
+          "h": 0.2,
+          "placeholder": "依据：{本批分布或关键统计}"
+        },
+        {
+          "name": "m4.diff.heading",
+          "shape_id": 46,
+          "x": 0.68,
+          "y": 5.47,
+          "w": 12.0,
+          "h": 0.27,
+          "placeholder": "差异个体：有依据时兼顾高于与低于群体的不同做法"
+        },
+        {
+          "name": "m4.diff0.bg",
+          "shape_id": 47,
+          "x": 0.65,
+          "y": 5.88,
+          "w": 4.0,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.diff0.title",
+          "shape_id": 48,
+          "x": 0.78,
+          "y": 5.95,
+          "w": 3.74,
+          "h": 0.29,
+          "placeholder": "{显示名/编号}｜{与群体不同在哪里}"
+        },
+        {
+          "name": "m4.diff0.body",
+          "shape_id": 49,
+          "x": 0.78,
+          "y": 6.28,
+          "w": 3.74,
+          "h": 0.37,
+          "placeholder": "[可能的做法与工作影响；\n不能直接套用群体结论。]"
+        },
+        {
+          "name": "m4.diff0.evidence",
+          "shape_id": 50,
+          "x": 0.78,
+          "y": 6.72,
+          "w": 3.74,
+          "h": 0.16,
+          "placeholder": "依据：{个人/群体；必要时补HPI组合}"
+        },
+        {
+          "name": "m4.diff1.bg",
+          "shape_id": 51,
+          "x": 4.84,
+          "y": 5.88,
+          "w": 4.0,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.diff1.title",
+          "shape_id": 52,
+          "x": 4.97,
+          "y": 5.95,
+          "w": 3.74,
+          "h": 0.29,
+          "placeholder": "{显示名/编号}｜{与群体不同在哪里}"
+        },
+        {
+          "name": "m4.diff1.body",
+          "shape_id": 53,
+          "x": 4.97,
+          "y": 6.28,
+          "w": 3.74,
+          "h": 0.37,
+          "placeholder": "[可能的做法与工作影响；\n不能直接套用群体结论。]"
+        },
+        {
+          "name": "m4.diff1.evidence",
+          "shape_id": 54,
+          "x": 4.97,
+          "y": 6.72,
+          "w": 3.74,
+          "h": 0.16,
+          "placeholder": "依据：{个人/群体；必要时补HPI组合}"
+        },
+        {
+          "name": "m4.diff2.bg",
+          "shape_id": 55,
+          "x": 9.03,
+          "y": 5.88,
+          "w": 4.0,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m4.diff2.title",
+          "shape_id": 56,
+          "x": 9.16,
+          "y": 5.95,
+          "w": 3.74,
+          "h": 0.29,
+          "placeholder": "{显示名/编号}｜{与群体不同在哪里}"
+        },
+        {
+          "name": "m4.diff2.body",
+          "shape_id": 57,
+          "x": 9.16,
+          "y": 6.28,
+          "w": 3.74,
+          "h": 0.37,
+          "placeholder": "[可能的做法与工作影响；\n不能直接套用群体结论。]"
+        },
+        {
+          "name": "m4.diff2.evidence",
+          "shape_id": 58,
+          "x": 9.16,
+          "y": 6.72,
+          "w": 3.74,
+          "h": 0.16,
+          "placeholder": "依据：{个人/群体；必要时补HPI组合}"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "fields": [
+        {
+          "name": "p5.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "团队角色：{覆盖了什么，哪些工作需要主动安排}"
+        },
+        {
+          "name": "p5.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "角色覆盖  /  先确认项目公式；同一成员可兼有多个角色"
+        },
+        {
+          "name": "p5.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "05"
+        },
+        {
+          "name": "p5.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p5.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "p5.roles.ring0.2",
+          "shape_id": 10,
+          "x": 3.0019,
+          "y": 3.643,
+          "w": 0.6362,
+          "h": 0.6362,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.roles.ring0.4",
+          "shape_id": 11,
+          "x": 2.6838,
+          "y": 3.3249,
+          "w": 1.2724,
+          "h": 1.2724,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.roles.ring0.6",
+          "shape_id": 12,
+          "x": 2.3657,
+          "y": 3.0068,
+          "w": 1.9085,
+          "h": 1.9085,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.roles.ring0.8",
+          "shape_id": 13,
+          "x": 2.0476,
+          "y": 2.6887,
+          "w": 2.5447,
+          "h": 2.5447,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.roles.ring1",
+          "shape_id": 14,
+          "x": 1.7295,
+          "y": 2.3706,
+          "w": 3.1809,
+          "h": 3.1809,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.roles.dim0",
+          "shape_id": 16,
+          "x": 2.72,
+          "y": 1.8117,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "结果"
+        },
+        {
+          "name": "p5.roles.dim1",
+          "shape_id": 18,
+          "x": 4.5503,
+          "y": 3.1414,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "关系"
+        },
+        {
+          "name": "p5.roles.dim2",
+          "shape_id": 20,
+          "x": 3.8512,
+          "y": 5.293,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "过程"
+        },
+        {
+          "name": "p5.roles.dim3",
+          "shape_id": 22,
+          "x": 1.5888,
+          "y": 5.293,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "创新"
+        },
+        {
+          "name": "p5.roles.dim4",
+          "shape_id": 24,
+          "x": 0.8897,
+          "y": 3.1414,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "务实"
+        },
+        {
+          "name": "p5.roles.caption.bg",
+          "shape_id": 25,
+          "x": 1.676,
+          "y": 3.6511,
+          "w": 3.288,
+          "h": 0.62,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.roles.replace",
+          "shape_id": 26,
+          "x": 1.7308,
+          "y": 3.6711,
+          "w": 3.1784,
+          "h": 0.58,
+          "placeholder": "填入按认可规则统计的\n角色人数与占比"
+        },
+        {
+          "name": "p5.finding0.bg",
+          "shape_id": 27,
+          "x": 6.36,
+          "y": 1.62,
+          "w": 6.37,
+          "h": 1.3,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.finding0.stripe",
+          "shape_id": 28,
+          "x": 6.48,
+          "y": 1.81,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.finding0.title",
+          "shape_id": 29,
+          "x": 6.6,
+          "y": 1.71,
+          "w": 5.98,
+          "h": 0.39,
+          "placeholder": "[优势：哪些自然倾向覆盖较多]"
+        },
+        {
+          "name": "p5.finding0.body",
+          "shape_id": 30,
+          "x": 6.6,
+          "y": 2.15,
+          "w": 5.91,
+          "h": 0.32,
+          "placeholder": "[写出在真实任务中可能怎样发挥作用，\n不要把角色人数等同实际能力。]"
+        },
+        {
+          "name": "p5.finding0.evidence",
+          "shape_id": 31,
+          "x": 6.6,
+          "y": 2.63,
+          "w": 5.92,
+          "h": 0.2,
+          "placeholder": "依据：{人数 / N；公式见备注}"
+        },
+        {
+          "name": "p5.finding1.bg",
+          "shape_id": 32,
+          "x": 6.36,
+          "y": 3.06,
+          "w": 6.37,
+          "h": 1.3,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.finding1.stripe",
+          "shape_id": 33,
+          "x": 6.48,
+          "y": 3.25,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.finding1.title",
+          "shape_id": 34,
+          "x": 6.6,
+          "y": 3.15,
+          "w": 5.98,
+          "h": 0.39,
+          "placeholder": "[工作安排：哪些方面要形成配合]"
+        },
+        {
+          "name": "p5.finding1.body",
+          "shape_id": 35,
+          "x": 6.6,
+          "y": 3.59,
+          "w": 5.91,
+          "h": 0.32,
+          "placeholder": "[谁偏探索、谁重计划，怎样避免\n任务无人跟进或反复修改。]"
+        },
+        {
+          "name": "p5.finding1.evidence",
+          "shape_id": 36,
+          "x": 6.6,
+          "y": 4.07,
+          "w": 5.92,
+          "h": 0.2,
+          "placeholder": "依据：{人数 / N；公式见备注}"
+        },
+        {
+          "name": "p5.finding2.bg",
+          "shape_id": 37,
+          "x": 6.36,
+          "y": 4.5,
+          "w": 6.37,
+          "h": 1.3,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.finding2.stripe",
+          "shape_id": 38,
+          "x": 6.48,
+          "y": 4.69,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "p5.finding2.title",
+          "shape_id": 39,
+          "x": 6.6,
+          "y": 4.59,
+          "w": 5.98,
+          "h": 0.39,
+          "placeholder": "[边界：角色缺位不等于没有能力]"
+        },
+        {
+          "name": "p5.finding2.body",
+          "shape_id": 40,
+          "x": 6.6,
+          "y": 5.03,
+          "w": 5.91,
+          "h": 0.32,
+          "placeholder": "[未满足阈值只说明规则下未计入，\n不能据此判断有人不会做这类工作。]"
+        },
+        {
+          "name": "p5.finding2.evidence",
+          "shape_id": 41,
+          "x": 6.6,
+          "y": 5.51,
+          "w": 5.92,
+          "h": 0.2,
+          "placeholder": "依据：{人数 / N；公式见备注}"
+        },
+        {
+          "name": "p5.rules",
+          "shape_id": 42,
+          "x": 0.72,
+          "y": 6.53,
+          "w": 11.95,
+          "h": 0.33,
+          "placeholder": "规则：[填经确认的公式与来源]；占比=角色人数÷N，同一人可重复计入不同角色。无认可规则时不统计。"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "fields": [
+        {
+          "name": "p6.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "HDS：{压力下哪些行为更值得观察}"
+        },
+        {
+          "name": "p6.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "压力倾向  /  群体主量表 → 可得子维度 → 场景与工作影响"
+        },
+        {
+          "name": "p6.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "06"
+        },
+        {
+          "name": "p6.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p6.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "p6.radar.ring0.2",
+          "shape_id": 10,
+          "x": 2.8269,
+          "y": 3.873,
+          "w": 0.6362,
+          "h": 0.6362,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.radar.ring0.4",
+          "shape_id": 11,
+          "x": 2.5088,
+          "y": 3.5549,
+          "w": 1.2724,
+          "h": 1.2724,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.radar.ring0.6",
+          "shape_id": 12,
+          "x": 2.1907,
+          "y": 3.2368,
+          "w": 1.9085,
+          "h": 1.9085,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.radar.ring0.8",
+          "shape_id": 13,
+          "x": 1.8726,
+          "y": 2.9187,
+          "w": 2.5447,
+          "h": 2.5447,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.radar.ring1",
+          "shape_id": 14,
+          "x": 1.5545,
+          "y": 2.6006,
+          "w": 3.1809,
+          "h": 3.1809,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.radar.dim0",
+          "shape_id": 16,
+          "x": 2.545,
+          "y": 2.0417,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "激动"
+        },
+        {
+          "name": "p6.radar.dim1",
+          "shape_id": 18,
+          "x": 3.5854,
+          "y": 2.3472,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "多疑"
+        },
+        {
+          "name": "p6.radar.dim2",
+          "shape_id": 20,
+          "x": 4.2955,
+          "y": 3.1667,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "谨慎"
+        },
+        {
+          "name": "p6.radar.dim3",
+          "shape_id": 22,
+          "x": 4.4499,
+          "y": 4.24,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "内敛"
+        },
+        {
+          "name": "p6.radar.dim4",
+          "shape_id": 24,
+          "x": 3.9994,
+          "y": 5.2263,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "消极"
+        },
+        {
+          "name": "p6.radar.dim5",
+          "shape_id": 26,
+          "x": 3.0872,
+          "y": 5.8126,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "自大"
+        },
+        {
+          "name": "p6.radar.dim6",
+          "shape_id": 28,
+          "x": 2.0028,
+          "y": 5.8126,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "狡猾"
+        },
+        {
+          "name": "p6.radar.dim7",
+          "shape_id": 30,
+          "x": 1.0906,
+          "y": 5.2263,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "戏剧化"
+        },
+        {
+          "name": "p6.radar.dim8",
+          "shape_id": 32,
+          "x": 0.6401,
+          "y": 4.24,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "幻想"
+        },
+        {
+          "name": "p6.radar.dim9",
+          "shape_id": 34,
+          "x": 0.7945,
+          "y": 3.1667,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "苛求"
+        },
+        {
+          "name": "p6.radar.dim10",
+          "shape_id": 36,
+          "x": 1.5046,
+          "y": 2.3472,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "恭顺"
+        },
+        {
+          "name": "p6.radar.caption.bg",
+          "shape_id": 37,
+          "x": 1.57,
+          "y": 3.8811,
+          "w": 3.15,
+          "h": 0.62,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.radar.replace",
+          "shape_id": 38,
+          "x": 1.6225,
+          "y": 3.9011,
+          "w": 3.045,
+          "h": 0.58,
+          "placeholder": "插入本批HDS群体雷达图\n只按真实分值绘制"
+        },
+        {
+          "name": "p6.risk0.bg",
+          "shape_id": 39,
+          "x": 6.06,
+          "y": 1.6,
+          "w": 3.24,
+          "h": 2.27,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.risk0.title",
+          "shape_id": 40,
+          "x": 6.23,
+          "y": 1.73,
+          "w": 2.9,
+          "h": 0.33,
+          "placeholder": "{重点量表 1}"
+        },
+        {
+          "name": "p6.risk0.counts",
+          "shape_id": 41,
+          "x": 6.23,
+          "y": 2.16,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "{达到关注区间的人数 / N}"
+        },
+        {
+          "name": "p6.risk0.body",
+          "shape_id": 42,
+          "x": 6.23,
+          "y": 2.56,
+          "w": 2.9,
+          "h": 0.74,
+          "placeholder": "[什么情境下可能怎样做；\n会让哪一步工作受影响；\n具体要观察什么。]"
+        },
+        {
+          "name": "p6.risk0.subscale",
+          "shape_id": 43,
+          "x": 6.23,
+          "y": 3.51,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "依据：{主量表分布 / 实际来源}"
+        },
+        {
+          "name": "p6.risk1.bg",
+          "shape_id": 44,
+          "x": 9.46,
+          "y": 1.6,
+          "w": 3.24,
+          "h": 2.27,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.risk1.title",
+          "shape_id": 45,
+          "x": 9.63,
+          "y": 1.73,
+          "w": 2.9,
+          "h": 0.33,
+          "placeholder": "{重点量表 2}"
+        },
+        {
+          "name": "p6.risk1.counts",
+          "shape_id": 46,
+          "x": 9.63,
+          "y": 2.16,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "{达到关注区间的人数 / N}"
+        },
+        {
+          "name": "p6.risk1.body",
+          "shape_id": 47,
+          "x": 9.63,
+          "y": 2.56,
+          "w": 2.9,
+          "h": 0.74,
+          "placeholder": "[什么情境下可能怎样做；\n会让哪一步工作受影响；\n具体要观察什么。]"
+        },
+        {
+          "name": "p6.risk1.subscale",
+          "shape_id": 48,
+          "x": 9.63,
+          "y": 3.51,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "依据：{主量表分布 / 实际来源}"
+        },
+        {
+          "name": "p6.risk2.bg",
+          "shape_id": 49,
+          "x": 6.06,
+          "y": 4.07,
+          "w": 3.24,
+          "h": 2.27,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.risk2.title",
+          "shape_id": 50,
+          "x": 6.23,
+          "y": 4.2,
+          "w": 2.9,
+          "h": 0.33,
+          "placeholder": "{重点量表 3}"
+        },
+        {
+          "name": "p6.risk2.counts",
+          "shape_id": 51,
+          "x": 6.23,
+          "y": 4.63,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "{达到关注区间的人数 / N}"
+        },
+        {
+          "name": "p6.risk2.body",
+          "shape_id": 52,
+          "x": 6.23,
+          "y": 5.03,
+          "w": 2.9,
+          "h": 0.74,
+          "placeholder": "[什么情境下可能怎样做；\n会让哪一步工作受影响；\n具体要观察什么。]"
+        },
+        {
+          "name": "p6.risk2.subscale",
+          "shape_id": 53,
+          "x": 6.23,
+          "y": 5.98,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "依据：{主量表分布 / 实际来源}"
+        },
+        {
+          "name": "p6.risk3.bg",
+          "shape_id": 54,
+          "x": 9.46,
+          "y": 4.07,
+          "w": 3.24,
+          "h": 2.27,
+          "placeholder": ""
+        },
+        {
+          "name": "p6.risk3.title",
+          "shape_id": 55,
+          "x": 9.63,
+          "y": 4.2,
+          "w": 2.9,
+          "h": 0.33,
+          "placeholder": "{重点量表 4}"
+        },
+        {
+          "name": "p6.risk3.counts",
+          "shape_id": 56,
+          "x": 9.63,
+          "y": 4.63,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "{达到关注区间的人数 / N}"
+        },
+        {
+          "name": "p6.risk3.body",
+          "shape_id": 57,
+          "x": 9.63,
+          "y": 5.03,
+          "w": 2.9,
+          "h": 0.74,
+          "placeholder": "[什么情境下可能怎样做；\n会让哪一步工作受影响；\n具体要观察什么。]"
+        },
+        {
+          "name": "p6.risk3.subscale",
+          "shape_id": 58,
+          "x": 9.63,
+          "y": 5.98,
+          "w": 2.9,
+          "h": 0.25,
+          "placeholder": "依据：{主量表分布 / 实际来源}"
+        },
+        {
+          "name": "p6.limit",
+          "shape_id": 59,
+          "x": 0.74,
+          "y": 6.7,
+          "w": 11.98,
+          "h": 0.27,
+          "placeholder": "主量表分档与子维度“满格”分开。子维度缺页/看不清应注明；重点量表随本批数据选择。"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "fields": [
+        {
+          "name": "p7.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p7.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "HDS子维度：{具体突出什么，会怎样影响工作}"
+        },
+        {
+          "name": "p7.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "原图统计 → 可能的工作表现 → 协作与交付影响；不从主量表猜格数"
+        },
+        {
+          "name": "p7.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "07"
+        },
+        {
+          "name": "p7.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p7.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "m7.head0.bg",
+          "shape_id": 10,
+          "x": 0.68,
+          "y": 1.63,
+          "w": 3.34,
+          "h": 0.5,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.head0.text",
+          "shape_id": 11,
+          "x": 0.83,
+          "y": 1.72,
+          "w": 3.04,
+          "h": 0.3,
+          "placeholder": "具体子维度与人数"
+        },
+        {
+          "name": "m7.head1.bg",
+          "shape_id": 12,
+          "x": 4.18,
+          "y": 1.63,
+          "w": 3.94,
+          "h": 0.5,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.head1.text",
+          "shape_id": 13,
+          "x": 4.33,
+          "y": 1.72,
+          "w": 3.64,
+          "h": 0.3,
+          "placeholder": "可能的工作表现"
+        },
+        {
+          "name": "m7.head2.bg",
+          "shape_id": 14,
+          "x": 8.28,
+          "y": 1.63,
+          "w": 4.38,
+          "h": 0.5,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.head2.text",
+          "shape_id": 15,
+          "x": 8.43,
+          "y": 1.72,
+          "w": 4.08,
+          "h": 0.3,
+          "placeholder": "对协作与交付的影响"
+        },
+        {
+          "name": "m7.row0.0.bg",
+          "shape_id": 16,
+          "x": 0.68,
+          "y": 2.33,
+          "w": 3.34,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row0.0.text",
+          "shape_id": 17,
+          "x": 0.82,
+          "y": 2.44,
+          "w": 3.06,
+          "h": 0.62,
+          "placeholder": "{主量表 1}\n{突出子维度 / 人数 / 有效N}"
+        },
+        {
+          "name": "m7.row0.1.bg",
+          "shape_id": 18,
+          "x": 4.18,
+          "y": 2.33,
+          "w": 3.94,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row0.1.text",
+          "shape_id": 19,
+          "x": 4.32,
+          "y": 2.44,
+          "w": 3.66,
+          "h": 0.62,
+          "placeholder": "[什么条件下，可能怎样反应；\n说明观察行为，不给人贴标签。]"
+        },
+        {
+          "name": "m7.row0.2.bg",
+          "shape_id": 20,
+          "x": 8.28,
+          "y": 2.33,
+          "w": 4.38,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row0.2.text",
+          "shape_id": 21,
+          "x": 8.42,
+          "y": 2.44,
+          "w": 4.1,
+          "h": 0.62,
+          "placeholder": "[有依据时说明正向作用；\n再说明使用过度时的一步工作后果。]"
+        },
+        {
+          "name": "m7.row1.0.bg",
+          "shape_id": 22,
+          "x": 0.68,
+          "y": 3.33,
+          "w": 3.34,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row1.0.text",
+          "shape_id": 23,
+          "x": 0.82,
+          "y": 3.44,
+          "w": 3.06,
+          "h": 0.62,
+          "placeholder": "{主量表 2}\n{突出子维度 / 人数 / 有效N}"
+        },
+        {
+          "name": "m7.row1.1.bg",
+          "shape_id": 24,
+          "x": 4.18,
+          "y": 3.33,
+          "w": 3.94,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row1.1.text",
+          "shape_id": 25,
+          "x": 4.32,
+          "y": 3.44,
+          "w": 3.66,
+          "h": 0.62,
+          "placeholder": "[什么条件下，可能怎样反应；\n说明观察行为，不给人贴标签。]"
+        },
+        {
+          "name": "m7.row1.2.bg",
+          "shape_id": 26,
+          "x": 8.28,
+          "y": 3.33,
+          "w": 4.38,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row1.2.text",
+          "shape_id": 27,
+          "x": 8.42,
+          "y": 3.44,
+          "w": 4.1,
+          "h": 0.62,
+          "placeholder": "[有依据时说明正向作用；\n再说明使用过度时的一步工作后果。]"
+        },
+        {
+          "name": "m7.row2.0.bg",
+          "shape_id": 28,
+          "x": 0.68,
+          "y": 4.33,
+          "w": 3.34,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row2.0.text",
+          "shape_id": 29,
+          "x": 0.82,
+          "y": 4.44,
+          "w": 3.06,
+          "h": 0.62,
+          "placeholder": "{主量表 3}\n{突出子维度 / 人数 / 有效N}"
+        },
+        {
+          "name": "m7.row2.1.bg",
+          "shape_id": 30,
+          "x": 4.18,
+          "y": 4.33,
+          "w": 3.94,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row2.1.text",
+          "shape_id": 31,
+          "x": 4.32,
+          "y": 4.44,
+          "w": 3.66,
+          "h": 0.62,
+          "placeholder": "[什么条件下，可能怎样反应；\n说明观察行为，不给人贴标签。]"
+        },
+        {
+          "name": "m7.row2.2.bg",
+          "shape_id": 32,
+          "x": 8.28,
+          "y": 4.33,
+          "w": 4.38,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row2.2.text",
+          "shape_id": 33,
+          "x": 8.42,
+          "y": 4.44,
+          "w": 4.1,
+          "h": 0.62,
+          "placeholder": "[有依据时说明正向作用；\n再说明使用过度时的一步工作后果。]"
+        },
+        {
+          "name": "m7.row3.0.bg",
+          "shape_id": 34,
+          "x": 0.68,
+          "y": 5.33,
+          "w": 3.34,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row3.0.text",
+          "shape_id": 35,
+          "x": 0.82,
+          "y": 5.44,
+          "w": 3.06,
+          "h": 0.62,
+          "placeholder": "{主量表 4}\n{突出子维度 / 人数 / 有效N}"
+        },
+        {
+          "name": "m7.row3.1.bg",
+          "shape_id": 36,
+          "x": 4.18,
+          "y": 5.33,
+          "w": 3.94,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row3.1.text",
+          "shape_id": 37,
+          "x": 4.32,
+          "y": 5.44,
+          "w": 3.66,
+          "h": 0.62,
+          "placeholder": "[什么条件下，可能怎样反应；\n说明观察行为，不给人贴标签。]"
+        },
+        {
+          "name": "m7.row3.2.bg",
+          "shape_id": 38,
+          "x": 8.28,
+          "y": 5.33,
+          "w": 4.38,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m7.row3.2.text",
+          "shape_id": 39,
+          "x": 8.42,
+          "y": 5.44,
+          "w": 4.1,
+          "h": 0.62,
+          "placeholder": "[有依据时说明正向作用；\n再说明使用过度时的一步工作后果。]"
+        },
+        {
+          "name": "m7.limit",
+          "shape_id": 40,
+          "x": 0.74,
+          "y": 6.65,
+          "w": 11.85,
+          "h": 0.29,
+          "placeholder": "{原图、来源页码、格数定义与计数规则}；“0人满格”不等于没有倾向；缺页写有效N。"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "fields": [
+        {
+          "name": "p8.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p8.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "HDS：{压力反应组合不同，工作关注需要区分}"
+        },
+        {
+          "name": "p8.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "热力图  /  默认编号；实名仅在用户指定、受众授权、映射确认后使用"
+        },
+        {
+          "name": "p8.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "08"
+        },
+        {
+          "name": "p8.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p8.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "m8.summary",
+          "shape_id": 10,
+          "x": 0.69,
+          "y": 1.54,
+          "w": 12.0,
+          "h": 0.35,
+          "placeholder": "[先概括本批不同压力组合对协作与交付的主要影响]"
+        },
+        {
+          "name": "m8.cell0.0.bg",
+          "shape_id": 11,
+          "x": 0.69,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.0.text",
+          "shape_id": 12,
+          "x": 0.699,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "显示名"
+        },
+        {
+          "name": "m8.cell0.1.bg",
+          "shape_id": 13,
+          "x": 1.2992,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.1.text",
+          "shape_id": 14,
+          "x": 1.3082,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "激动"
+        },
+        {
+          "name": "m8.cell0.2.bg",
+          "shape_id": 15,
+          "x": 1.9083,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.2.text",
+          "shape_id": 16,
+          "x": 1.9173,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "多疑"
+        },
+        {
+          "name": "m8.cell0.3.bg",
+          "shape_id": 17,
+          "x": 2.5175,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.3.text",
+          "shape_id": 18,
+          "x": 2.5265,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "谨慎"
+        },
+        {
+          "name": "m8.cell0.4.bg",
+          "shape_id": 19,
+          "x": 3.1267,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.4.text",
+          "shape_id": 20,
+          "x": 3.1357,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "内敛"
+        },
+        {
+          "name": "m8.cell0.5.bg",
+          "shape_id": 21,
+          "x": 3.7358,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.5.text",
+          "shape_id": 22,
+          "x": 3.7448,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "消极"
+        },
+        {
+          "name": "m8.cell0.6.bg",
+          "shape_id": 23,
+          "x": 4.345,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.6.text",
+          "shape_id": 24,
+          "x": 4.354,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "自大"
+        },
+        {
+          "name": "m8.cell0.7.bg",
+          "shape_id": 25,
+          "x": 4.9542,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.7.text",
+          "shape_id": 26,
+          "x": 4.9632,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "狡猾"
+        },
+        {
+          "name": "m8.cell0.8.bg",
+          "shape_id": 27,
+          "x": 5.5633,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.8.text",
+          "shape_id": 28,
+          "x": 5.5723,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "戏剧化"
+        },
+        {
+          "name": "m8.cell0.9.bg",
+          "shape_id": 29,
+          "x": 6.1725,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.9.text",
+          "shape_id": 30,
+          "x": 6.1815,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "幻想"
+        },
+        {
+          "name": "m8.cell0.10.bg",
+          "shape_id": 31,
+          "x": 6.7817,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.10.text",
+          "shape_id": 32,
+          "x": 6.7907,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "苛求"
+        },
+        {
+          "name": "m8.cell0.11.bg",
+          "shape_id": 33,
+          "x": 7.3908,
+          "y": 2.26,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell0.11.text",
+          "shape_id": 34,
+          "x": 7.3998,
+          "y": 2.295,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "恭顺"
+        },
+        {
+          "name": "m8.cell1.0.bg",
+          "shape_id": 35,
+          "x": 0.69,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.0.text",
+          "shape_id": 36,
+          "x": 0.699,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "成员01"
+        },
+        {
+          "name": "m8.cell1.1.bg",
+          "shape_id": 37,
+          "x": 1.2992,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.1.text",
+          "shape_id": 38,
+          "x": 1.3082,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.2.bg",
+          "shape_id": 39,
+          "x": 1.9083,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.2.text",
+          "shape_id": 40,
+          "x": 1.9173,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.3.bg",
+          "shape_id": 41,
+          "x": 2.5175,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.3.text",
+          "shape_id": 42,
+          "x": 2.5265,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.4.bg",
+          "shape_id": 43,
+          "x": 3.1267,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.4.text",
+          "shape_id": 44,
+          "x": 3.1357,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.5.bg",
+          "shape_id": 45,
+          "x": 3.7358,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.5.text",
+          "shape_id": 46,
+          "x": 3.7448,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.6.bg",
+          "shape_id": 47,
+          "x": 4.345,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.6.text",
+          "shape_id": 48,
+          "x": 4.354,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.7.bg",
+          "shape_id": 49,
+          "x": 4.9542,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.7.text",
+          "shape_id": 50,
+          "x": 4.9632,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.8.bg",
+          "shape_id": 51,
+          "x": 5.5633,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.8.text",
+          "shape_id": 52,
+          "x": 5.5723,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.9.bg",
+          "shape_id": 53,
+          "x": 6.1725,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.9.text",
+          "shape_id": 54,
+          "x": 6.1815,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.10.bg",
+          "shape_id": 55,
+          "x": 6.7817,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.10.text",
+          "shape_id": 56,
+          "x": 6.7907,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell1.11.bg",
+          "shape_id": 57,
+          "x": 7.3908,
+          "y": 2.8186,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell1.11.text",
+          "shape_id": 58,
+          "x": 7.3998,
+          "y": 2.8536,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.0.bg",
+          "shape_id": 59,
+          "x": 0.69,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.0.text",
+          "shape_id": 60,
+          "x": 0.699,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "成员02"
+        },
+        {
+          "name": "m8.cell2.1.bg",
+          "shape_id": 61,
+          "x": 1.2992,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.1.text",
+          "shape_id": 62,
+          "x": 1.3082,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.2.bg",
+          "shape_id": 63,
+          "x": 1.9083,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.2.text",
+          "shape_id": 64,
+          "x": 1.9173,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.3.bg",
+          "shape_id": 65,
+          "x": 2.5175,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.3.text",
+          "shape_id": 66,
+          "x": 2.5265,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.4.bg",
+          "shape_id": 67,
+          "x": 3.1267,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.4.text",
+          "shape_id": 68,
+          "x": 3.1357,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.5.bg",
+          "shape_id": 69,
+          "x": 3.7358,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.5.text",
+          "shape_id": 70,
+          "x": 3.7448,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.6.bg",
+          "shape_id": 71,
+          "x": 4.345,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.6.text",
+          "shape_id": 72,
+          "x": 4.354,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.7.bg",
+          "shape_id": 73,
+          "x": 4.9542,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.7.text",
+          "shape_id": 74,
+          "x": 4.9632,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.8.bg",
+          "shape_id": 75,
+          "x": 5.5633,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.8.text",
+          "shape_id": 76,
+          "x": 5.5723,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.9.bg",
+          "shape_id": 77,
+          "x": 6.1725,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.9.text",
+          "shape_id": 78,
+          "x": 6.1815,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.10.bg",
+          "shape_id": 79,
+          "x": 6.7817,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.10.text",
+          "shape_id": 80,
+          "x": 6.7907,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell2.11.bg",
+          "shape_id": 81,
+          "x": 7.3908,
+          "y": 3.3771,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell2.11.text",
+          "shape_id": 82,
+          "x": 7.3998,
+          "y": 3.4121,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.0.bg",
+          "shape_id": 83,
+          "x": 0.69,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.0.text",
+          "shape_id": 84,
+          "x": 0.699,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "成员03"
+        },
+        {
+          "name": "m8.cell3.1.bg",
+          "shape_id": 85,
+          "x": 1.2992,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.1.text",
+          "shape_id": 86,
+          "x": 1.3082,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.2.bg",
+          "shape_id": 87,
+          "x": 1.9083,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.2.text",
+          "shape_id": 88,
+          "x": 1.9173,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.3.bg",
+          "shape_id": 89,
+          "x": 2.5175,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.3.text",
+          "shape_id": 90,
+          "x": 2.5265,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.4.bg",
+          "shape_id": 91,
+          "x": 3.1267,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.4.text",
+          "shape_id": 92,
+          "x": 3.1357,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.5.bg",
+          "shape_id": 93,
+          "x": 3.7358,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.5.text",
+          "shape_id": 94,
+          "x": 3.7448,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.6.bg",
+          "shape_id": 95,
+          "x": 4.345,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.6.text",
+          "shape_id": 96,
+          "x": 4.354,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.7.bg",
+          "shape_id": 97,
+          "x": 4.9542,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.7.text",
+          "shape_id": 98,
+          "x": 4.9632,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.8.bg",
+          "shape_id": 99,
+          "x": 5.5633,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.8.text",
+          "shape_id": 100,
+          "x": 5.5723,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.9.bg",
+          "shape_id": 101,
+          "x": 6.1725,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.9.text",
+          "shape_id": 102,
+          "x": 6.1815,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.10.bg",
+          "shape_id": 103,
+          "x": 6.7817,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.10.text",
+          "shape_id": 104,
+          "x": 6.7907,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell3.11.bg",
+          "shape_id": 105,
+          "x": 7.3908,
+          "y": 3.9357,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell3.11.text",
+          "shape_id": 106,
+          "x": 7.3998,
+          "y": 3.9707,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.0.bg",
+          "shape_id": 107,
+          "x": 0.69,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.0.text",
+          "shape_id": 108,
+          "x": 0.699,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "成员04"
+        },
+        {
+          "name": "m8.cell4.1.bg",
+          "shape_id": 109,
+          "x": 1.2992,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.1.text",
+          "shape_id": 110,
+          "x": 1.3082,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.2.bg",
+          "shape_id": 111,
+          "x": 1.9083,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.2.text",
+          "shape_id": 112,
+          "x": 1.9173,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.3.bg",
+          "shape_id": 113,
+          "x": 2.5175,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.3.text",
+          "shape_id": 114,
+          "x": 2.5265,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.4.bg",
+          "shape_id": 115,
+          "x": 3.1267,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.4.text",
+          "shape_id": 116,
+          "x": 3.1357,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.5.bg",
+          "shape_id": 117,
+          "x": 3.7358,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.5.text",
+          "shape_id": 118,
+          "x": 3.7448,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.6.bg",
+          "shape_id": 119,
+          "x": 4.345,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.6.text",
+          "shape_id": 120,
+          "x": 4.354,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.7.bg",
+          "shape_id": 121,
+          "x": 4.9542,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.7.text",
+          "shape_id": 122,
+          "x": 4.9632,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.8.bg",
+          "shape_id": 123,
+          "x": 5.5633,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.8.text",
+          "shape_id": 124,
+          "x": 5.5723,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.9.bg",
+          "shape_id": 125,
+          "x": 6.1725,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.9.text",
+          "shape_id": 126,
+          "x": 6.1815,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.10.bg",
+          "shape_id": 127,
+          "x": 6.7817,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.10.text",
+          "shape_id": 128,
+          "x": 6.7907,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell4.11.bg",
+          "shape_id": 129,
+          "x": 7.3908,
+          "y": 4.4943,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell4.11.text",
+          "shape_id": 130,
+          "x": 7.3998,
+          "y": 4.5293,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.0.bg",
+          "shape_id": 131,
+          "x": 0.69,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.0.text",
+          "shape_id": 132,
+          "x": 0.699,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "成员05"
+        },
+        {
+          "name": "m8.cell5.1.bg",
+          "shape_id": 133,
+          "x": 1.2992,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.1.text",
+          "shape_id": 134,
+          "x": 1.3082,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.2.bg",
+          "shape_id": 135,
+          "x": 1.9083,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.2.text",
+          "shape_id": 136,
+          "x": 1.9173,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.3.bg",
+          "shape_id": 137,
+          "x": 2.5175,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.3.text",
+          "shape_id": 138,
+          "x": 2.5265,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.4.bg",
+          "shape_id": 139,
+          "x": 3.1267,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.4.text",
+          "shape_id": 140,
+          "x": 3.1357,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.5.bg",
+          "shape_id": 141,
+          "x": 3.7358,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.5.text",
+          "shape_id": 142,
+          "x": 3.7448,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.6.bg",
+          "shape_id": 143,
+          "x": 4.345,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.6.text",
+          "shape_id": 144,
+          "x": 4.354,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.7.bg",
+          "shape_id": 145,
+          "x": 4.9542,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.7.text",
+          "shape_id": 146,
+          "x": 4.9632,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.8.bg",
+          "shape_id": 147,
+          "x": 5.5633,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.8.text",
+          "shape_id": 148,
+          "x": 5.5723,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.9.bg",
+          "shape_id": 149,
+          "x": 6.1725,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.9.text",
+          "shape_id": 150,
+          "x": 6.1815,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.10.bg",
+          "shape_id": 151,
+          "x": 6.7817,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.10.text",
+          "shape_id": 152,
+          "x": 6.7907,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell5.11.bg",
+          "shape_id": 153,
+          "x": 7.3908,
+          "y": 5.0529,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell5.11.text",
+          "shape_id": 154,
+          "x": 7.3998,
+          "y": 5.0879,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.0.bg",
+          "shape_id": 155,
+          "x": 0.69,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.0.text",
+          "shape_id": 156,
+          "x": 0.699,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "成员06"
+        },
+        {
+          "name": "m8.cell6.1.bg",
+          "shape_id": 157,
+          "x": 1.2992,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.1.text",
+          "shape_id": 158,
+          "x": 1.3082,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.2.bg",
+          "shape_id": 159,
+          "x": 1.9083,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.2.text",
+          "shape_id": 160,
+          "x": 1.9173,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.3.bg",
+          "shape_id": 161,
+          "x": 2.5175,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.3.text",
+          "shape_id": 162,
+          "x": 2.5265,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.4.bg",
+          "shape_id": 163,
+          "x": 3.1267,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.4.text",
+          "shape_id": 164,
+          "x": 3.1357,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.5.bg",
+          "shape_id": 165,
+          "x": 3.7358,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.5.text",
+          "shape_id": 166,
+          "x": 3.7448,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.6.bg",
+          "shape_id": 167,
+          "x": 4.345,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.6.text",
+          "shape_id": 168,
+          "x": 4.354,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.7.bg",
+          "shape_id": 169,
+          "x": 4.9542,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.7.text",
+          "shape_id": 170,
+          "x": 4.9632,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.8.bg",
+          "shape_id": 171,
+          "x": 5.5633,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.8.text",
+          "shape_id": 172,
+          "x": 5.5723,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.9.bg",
+          "shape_id": 173,
+          "x": 6.1725,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.9.text",
+          "shape_id": 174,
+          "x": 6.1815,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.10.bg",
+          "shape_id": 175,
+          "x": 6.7817,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.10.text",
+          "shape_id": 176,
+          "x": 6.7907,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.cell6.11.bg",
+          "shape_id": 177,
+          "x": 7.3908,
+          "y": 5.6114,
+          "w": 0.5912,
+          "h": 0.5406,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.cell6.11.text",
+          "shape_id": 178,
+          "x": 7.3998,
+          "y": 5.6464,
+          "w": 0.5732,
+          "h": 0.4886,
+          "placeholder": "—"
+        },
+        {
+          "name": "m8.identity.note",
+          "shape_id": 179,
+          "x": 0.74,
+          "y": 1.98,
+          "w": 7.0,
+          "h": 0.24,
+          "placeholder": "显示模式：{编号 / 授权缩写 / 授权实名}"
+        },
+        {
+          "name": "m8.key.title",
+          "shape_id": 180,
+          "x": 8.16,
+          "y": 1.98,
+          "w": 0.73,
+          "h": 0.25,
+          "placeholder": "图例"
+        },
+        {
+          "name": "m8.key0.color",
+          "shape_id": 181,
+          "x": 8.16,
+          "y": 2.4,
+          "w": 0.16,
+          "h": 0.66,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.key0.label",
+          "shape_id": 182,
+          "x": 8.39,
+          "y": 2.4,
+          "w": 0.58,
+          "h": 0.29,
+          "placeholder": "{高档}"
+        },
+        {
+          "name": "m8.key0.range",
+          "shape_id": 183,
+          "x": 8.39,
+          "y": 2.75,
+          "w": 0.58,
+          "h": 0.22,
+          "placeholder": "{区间}"
+        },
+        {
+          "name": "m8.key1.color",
+          "shape_id": 184,
+          "x": 8.16,
+          "y": 3.28,
+          "w": 0.16,
+          "h": 0.66,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.key1.label",
+          "shape_id": 185,
+          "x": 8.39,
+          "y": 3.28,
+          "w": 0.58,
+          "h": 0.29,
+          "placeholder": "{中高档}"
+        },
+        {
+          "name": "m8.key1.range",
+          "shape_id": 186,
+          "x": 8.39,
+          "y": 3.63,
+          "w": 0.58,
+          "h": 0.22,
+          "placeholder": "{区间}"
+        },
+        {
+          "name": "m8.key2.color",
+          "shape_id": 187,
+          "x": 8.16,
+          "y": 4.16,
+          "w": 0.16,
+          "h": 0.66,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.key2.label",
+          "shape_id": 188,
+          "x": 8.39,
+          "y": 4.16,
+          "w": 0.58,
+          "h": 0.29,
+          "placeholder": "{中低档}"
+        },
+        {
+          "name": "m8.key2.range",
+          "shape_id": 189,
+          "x": 8.39,
+          "y": 4.51,
+          "w": 0.58,
+          "h": 0.22,
+          "placeholder": "{区间}"
+        },
+        {
+          "name": "m8.key3.color",
+          "shape_id": 190,
+          "x": 8.16,
+          "y": 5.04,
+          "w": 0.16,
+          "h": 0.66,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.key3.label",
+          "shape_id": 191,
+          "x": 8.39,
+          "y": 5.04,
+          "w": 0.58,
+          "h": 0.29,
+          "placeholder": "{低档}"
+        },
+        {
+          "name": "m8.key3.range",
+          "shape_id": 192,
+          "x": 8.39,
+          "y": 5.39,
+          "w": 0.58,
+          "h": 0.22,
+          "placeholder": "{区间}"
+        },
+        {
+          "name": "m8.observer.heading",
+          "shape_id": 193,
+          "x": 9.24,
+          "y": 1.98,
+          "w": 3.38,
+          "h": 0.26,
+          "placeholder": "观察对象 / 共性组合"
+        },
+        {
+          "name": "m8.observer0.bg",
+          "shape_id": 194,
+          "x": 9.2,
+          "y": 2.39,
+          "w": 3.49,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.observer0.title",
+          "shape_id": 195,
+          "x": 9.33,
+          "y": 2.46,
+          "w": 3.23,
+          "h": 0.29,
+          "placeholder": "{对象/组合}｜{重点}"
+        },
+        {
+          "name": "m8.observer0.body",
+          "shape_id": 196,
+          "x": 9.33,
+          "y": 2.79,
+          "w": 3.23,
+          "h": 0.37,
+          "placeholder": "[压力下可能怎样做，\n影响哪一步工作。]"
+        },
+        {
+          "name": "m8.observer0.evidence",
+          "shape_id": 197,
+          "x": 9.33,
+          "y": 3.23,
+          "w": 3.23,
+          "h": 0.16,
+          "placeholder": "依据：{分值/人数；选择理由}"
+        },
+        {
+          "name": "m8.observer1.bg",
+          "shape_id": 198,
+          "x": 9.2,
+          "y": 3.64,
+          "w": 3.49,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.observer1.title",
+          "shape_id": 199,
+          "x": 9.33,
+          "y": 3.71,
+          "w": 3.23,
+          "h": 0.29,
+          "placeholder": "{对象/组合}｜{重点}"
+        },
+        {
+          "name": "m8.observer1.body",
+          "shape_id": 200,
+          "x": 9.33,
+          "y": 4.04,
+          "w": 3.23,
+          "h": 0.37,
+          "placeholder": "[压力下可能怎样做，\n影响哪一步工作。]"
+        },
+        {
+          "name": "m8.observer1.evidence",
+          "shape_id": 201,
+          "x": 9.33,
+          "y": 4.48,
+          "w": 3.23,
+          "h": 0.16,
+          "placeholder": "依据：{分值/人数；选择理由}"
+        },
+        {
+          "name": "m8.observer2.bg",
+          "shape_id": 202,
+          "x": 9.2,
+          "y": 4.89,
+          "w": 3.49,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m8.observer2.title",
+          "shape_id": 203,
+          "x": 9.33,
+          "y": 4.96,
+          "w": 3.23,
+          "h": 0.29,
+          "placeholder": "{对象/组合}｜{重点}"
+        },
+        {
+          "name": "m8.observer2.body",
+          "shape_id": 204,
+          "x": 9.33,
+          "y": 5.29,
+          "w": 3.23,
+          "h": 0.37,
+          "placeholder": "[压力下可能怎样做，\n影响哪一步工作。]"
+        },
+        {
+          "name": "m8.observer2.evidence",
+          "shape_id": 205,
+          "x": 9.33,
+          "y": 5.73,
+          "w": 3.23,
+          "h": 0.16,
+          "placeholder": "依据：{分值/人数；选择理由}"
+        },
+        {
+          "name": "m8.relabel",
+          "shape_id": 206,
+          "x": 0.74,
+          "y": 6.49,
+          "w": 11.88,
+          "h": 0.37,
+          "placeholder": "标签说明：{原报告区间及称谓；如按参考改显示标签，写清映射，阈值不变。}"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "fields": [
+        {
+          "name": "p9.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p9.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "MVPI：{共同投入来源，以及需要区别沟通的偏好}"
+        },
+        {
+          "name": "p9.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "动机与价值偏好  /  任务沟通、工作环境与反馈；不等同业务能力"
+        },
+        {
+          "name": "p9.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "09"
+        },
+        {
+          "name": "p9.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p9.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "m9.radar.ring0.2",
+          "shape_id": 10,
+          "x": 3.0331,
+          "y": 3.2775,
+          "w": 0.5437,
+          "h": 0.5437,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.radar.ring0.4",
+          "shape_id": 11,
+          "x": 2.7613,
+          "y": 3.0057,
+          "w": 1.0874,
+          "h": 1.0874,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.radar.ring0.6",
+          "shape_id": 12,
+          "x": 2.4894,
+          "y": 2.7338,
+          "w": 1.6312,
+          "h": 1.6312,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.radar.ring0.8",
+          "shape_id": 13,
+          "x": 2.2176,
+          "y": 2.462,
+          "w": 2.1749,
+          "h": 2.1749,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.radar.ring1",
+          "shape_id": 14,
+          "x": 1.9457,
+          "y": 2.1901,
+          "w": 2.7186,
+          "h": 2.7186,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.radar.dim0",
+          "shape_id": 16,
+          "x": 2.705,
+          "y": 1.6796,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "认可"
+        },
+        {
+          "name": "m9.radar.dim1",
+          "shape_id": 18,
+          "x": 3.6718,
+          "y": 1.9938,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "权力"
+        },
+        {
+          "name": "m9.radar.dim2",
+          "shape_id": 20,
+          "x": 4.2693,
+          "y": 2.8161,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "享乐"
+        },
+        {
+          "name": "m9.radar.dim3",
+          "shape_id": 22,
+          "x": 4.2693,
+          "y": 3.8327,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "利他"
+        },
+        {
+          "name": "m9.radar.dim4",
+          "shape_id": 24,
+          "x": 3.6718,
+          "y": 4.655,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "归属"
+        },
+        {
+          "name": "m9.radar.dim5",
+          "shape_id": 26,
+          "x": 2.705,
+          "y": 4.9692,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "传统"
+        },
+        {
+          "name": "m9.radar.dim6",
+          "shape_id": 28,
+          "x": 1.7382,
+          "y": 4.655,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "保障"
+        },
+        {
+          "name": "m9.radar.dim7",
+          "shape_id": 30,
+          "x": 1.1407,
+          "y": 3.8327,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "商业"
+        },
+        {
+          "name": "m9.radar.dim8",
+          "shape_id": 32,
+          "x": 1.1407,
+          "y": 2.8161,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "美感"
+        },
+        {
+          "name": "m9.radar.dim9",
+          "shape_id": 34,
+          "x": 1.7382,
+          "y": 1.9938,
+          "w": 1.2,
+          "h": 0.45,
+          "placeholder": "科学"
+        },
+        {
+          "name": "m9.radar.caption.bg",
+          "shape_id": 35,
+          "x": 1.658,
+          "y": 3.2394,
+          "w": 3.294,
+          "h": 0.62,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.radar.replace",
+          "shape_id": 36,
+          "x": 1.7129,
+          "y": 3.2594,
+          "w": 3.1842,
+          "h": 0.58,
+          "placeholder": "本批MVPI群体雷达图\n均值 / 中位值 / 个体轮廓"
+        },
+        {
+          "name": "m9.finding0.bg",
+          "shape_id": 37,
+          "x": 6.26,
+          "y": 1.55,
+          "w": 6.48,
+          "h": 1.12,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.finding0.stripe",
+          "shape_id": 38,
+          "x": 6.38,
+          "y": 1.74,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.finding0.title",
+          "shape_id": 39,
+          "x": 6.5,
+          "y": 1.64,
+          "w": 6.09,
+          "h": 0.39,
+          "placeholder": "[共同驱动1：更重视什么]"
+        },
+        {
+          "name": "m9.finding0.body",
+          "shape_id": 40,
+          "x": 6.5,
+          "y": 2.08,
+          "w": 6.02,
+          "h": 0.14,
+          "placeholder": "[说明哪类任务沟通或安排可能更能激发投入。]"
+        },
+        {
+          "name": "m9.finding0.evidence",
+          "shape_id": 41,
+          "x": 6.5,
+          "y": 2.38,
+          "w": 6.03,
+          "h": 0.2,
+          "placeholder": "依据：{本批分布；成效仍需确认}"
+        },
+        {
+          "name": "m9.finding1.bg",
+          "shape_id": 42,
+          "x": 6.26,
+          "y": 2.8,
+          "w": 6.48,
+          "h": 1.12,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.finding1.stripe",
+          "shape_id": 43,
+          "x": 6.38,
+          "y": 2.99,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.finding1.title",
+          "shape_id": 44,
+          "x": 6.5,
+          "y": 2.89,
+          "w": 6.09,
+          "h": 0.39,
+          "placeholder": "[共同驱动2：更重视什么]"
+        },
+        {
+          "name": "m9.finding1.body",
+          "shape_id": 45,
+          "x": 6.5,
+          "y": 3.33,
+          "w": 6.02,
+          "h": 0.14,
+          "placeholder": "[说明哪类任务沟通或安排可能更能激发投入。]"
+        },
+        {
+          "name": "m9.finding1.evidence",
+          "shape_id": 46,
+          "x": 6.5,
+          "y": 3.63,
+          "w": 6.03,
+          "h": 0.2,
+          "placeholder": "依据：{本批分布；成效仍需确认}"
+        },
+        {
+          "name": "m9.finding2.bg",
+          "shape_id": 47,
+          "x": 6.26,
+          "y": 4.05,
+          "w": 6.48,
+          "h": 1.12,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.finding2.stripe",
+          "shape_id": 48,
+          "x": 6.38,
+          "y": 4.24,
+          "w": 0.035,
+          "h": 0.24,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.finding2.title",
+          "shape_id": 49,
+          "x": 6.5,
+          "y": 4.14,
+          "w": 6.09,
+          "h": 0.39,
+          "placeholder": "[共同驱动3：更重视什么]"
+        },
+        {
+          "name": "m9.finding2.body",
+          "shape_id": 50,
+          "x": 6.5,
+          "y": 4.58,
+          "w": 6.02,
+          "h": 0.14,
+          "placeholder": "[说明哪类任务沟通或安排可能更能激发投入。]"
+        },
+        {
+          "name": "m9.finding2.evidence",
+          "shape_id": 51,
+          "x": 6.5,
+          "y": 4.88,
+          "w": 6.03,
+          "h": 0.2,
+          "placeholder": "依据：{本批分布；成效仍需确认}"
+        },
+        {
+          "name": "m9.diff.heading",
+          "shape_id": 52,
+          "x": 0.68,
+          "y": 5.47,
+          "w": 12.0,
+          "h": 0.27,
+          "placeholder": "差异个体：同一种任务安排或认可方式，不一定对所有人都有效"
+        },
+        {
+          "name": "m9.diff0.bg",
+          "shape_id": 53,
+          "x": 0.65,
+          "y": 5.88,
+          "w": 4.0,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.diff0.title",
+          "shape_id": 54,
+          "x": 0.78,
+          "y": 5.95,
+          "w": 3.74,
+          "h": 0.29,
+          "placeholder": "{显示名/编号}｜{偏好区别}"
+        },
+        {
+          "name": "m9.diff0.body",
+          "shape_id": 55,
+          "x": 0.78,
+          "y": 6.28,
+          "w": 3.74,
+          "h": 0.37,
+          "placeholder": "[怎样沟通任务、给予责任或反馈；\n说明需要与本人确认。]"
+        },
+        {
+          "name": "m9.diff0.evidence",
+          "shape_id": 56,
+          "x": 0.78,
+          "y": 6.72,
+          "w": 3.74,
+          "h": 0.16,
+          "placeholder": "依据：{相对分值或相关量表组合}"
+        },
+        {
+          "name": "m9.diff1.bg",
+          "shape_id": 57,
+          "x": 4.84,
+          "y": 5.88,
+          "w": 4.0,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.diff1.title",
+          "shape_id": 58,
+          "x": 4.97,
+          "y": 5.95,
+          "w": 3.74,
+          "h": 0.29,
+          "placeholder": "{显示名/编号}｜{偏好区别}"
+        },
+        {
+          "name": "m9.diff1.body",
+          "shape_id": 59,
+          "x": 4.97,
+          "y": 6.28,
+          "w": 3.74,
+          "h": 0.37,
+          "placeholder": "[怎样沟通任务、给予责任或反馈；\n说明需要与本人确认。]"
+        },
+        {
+          "name": "m9.diff1.evidence",
+          "shape_id": 60,
+          "x": 4.97,
+          "y": 6.72,
+          "w": 3.74,
+          "h": 0.16,
+          "placeholder": "依据：{相对分值或相关量表组合}"
+        },
+        {
+          "name": "m9.diff2.bg",
+          "shape_id": 61,
+          "x": 9.03,
+          "y": 5.88,
+          "w": 4.0,
+          "h": 1.08,
+          "placeholder": ""
+        },
+        {
+          "name": "m9.diff2.title",
+          "shape_id": 62,
+          "x": 9.16,
+          "y": 5.95,
+          "w": 3.74,
+          "h": 0.29,
+          "placeholder": "{显示名/编号}｜{偏好区别}"
+        },
+        {
+          "name": "m9.diff2.body",
+          "shape_id": 63,
+          "x": 9.16,
+          "y": 6.28,
+          "w": 3.74,
+          "h": 0.37,
+          "placeholder": "[怎样沟通任务、给予责任或反馈；\n说明需要与本人确认。]"
+        },
+        {
+          "name": "m9.diff2.evidence",
+          "shape_id": 64,
+          "x": 9.16,
+          "y": 6.72,
+          "w": 3.74,
+          "h": 0.16,
+          "placeholder": "依据：{相对分值或相关量表组合}"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "fields": [
+        {
+          "name": "p10.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p10.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "工作观察：{哪些表现会影响判断、推进、交付和协作}"
+        },
+        {
+          "name": "p10.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "在真实任务中验证  /  场景、表现与影响、观察行为、支持方式相互对应"
+        },
+        {
+          "name": "p10.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "10"
+        },
+        {
+          "name": "p10.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p10.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "m10.head0.bg",
+          "shape_id": 10,
+          "x": 0.67,
+          "y": 1.64,
+          "w": 1.8,
+          "h": 0.52,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.head0.text",
+          "shape_id": 11,
+          "x": 0.77,
+          "y": 1.72,
+          "w": 1.6,
+          "h": 0.35,
+          "placeholder": "工作场景"
+        },
+        {
+          "name": "m10.head1.bg",
+          "shape_id": 12,
+          "x": 2.64,
+          "y": 1.64,
+          "w": 3.99,
+          "h": 0.52,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.head1.text",
+          "shape_id": 13,
+          "x": 2.74,
+          "y": 1.72,
+          "w": 3.79,
+          "h": 0.35,
+          "placeholder": "可能的表现与工作影响"
+        },
+        {
+          "name": "m10.head2.bg",
+          "shape_id": 14,
+          "x": 6.8,
+          "y": 1.64,
+          "w": 2.89,
+          "h": 0.52,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.head2.text",
+          "shape_id": 15,
+          "x": 6.9,
+          "y": 1.72,
+          "w": 2.69,
+          "h": 0.35,
+          "placeholder": "应观察的行为"
+        },
+        {
+          "name": "m10.head3.bg",
+          "shape_id": 16,
+          "x": 9.86,
+          "y": 1.64,
+          "w": 2.8,
+          "h": 0.52,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.head3.text",
+          "shape_id": 17,
+          "x": 9.96,
+          "y": 1.72,
+          "w": 2.6,
+          "h": 0.35,
+          "placeholder": "对应支持方式"
+        },
+        {
+          "name": "m10.row0.0.bg",
+          "shape_id": 18,
+          "x": 0.67,
+          "y": 2.38,
+          "w": 1.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row0.0.text",
+          "shape_id": 19,
+          "x": 0.77,
+          "y": 2.49,
+          "w": 1.6,
+          "h": 0.62,
+          "placeholder": "[方案评审]"
+        },
+        {
+          "name": "m10.row0.1.bg",
+          "shape_id": 20,
+          "x": 2.64,
+          "y": 2.38,
+          "w": 3.99,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row0.1.text",
+          "shape_id": 21,
+          "x": 2.74,
+          "y": 2.49,
+          "w": 3.79,
+          "h": 0.62,
+          "placeholder": "[根据本批证据写可能的做法；\n再说明对哪一步工作有帮助或代价。]"
+        },
+        {
+          "name": "m10.row0.2.bg",
+          "shape_id": 22,
+          "x": 6.8,
+          "y": 2.38,
+          "w": 2.89,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row0.2.text",
+          "shape_id": 23,
+          "x": 6.9,
+          "y": 2.49,
+          "w": 2.69,
+          "h": 0.62,
+          "placeholder": "[可看见、可核对的动作；\n不是笼统能力标签。]"
+        },
+        {
+          "name": "m10.row0.3.bg",
+          "shape_id": 24,
+          "x": 9.86,
+          "y": 2.38,
+          "w": 2.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row0.3.text",
+          "shape_id": 25,
+          "x": 9.96,
+          "y": 2.49,
+          "w": 2.6,
+          "h": 0.62,
+          "placeholder": "[与前面行为对应的\n任务安排或反馈动作。]"
+        },
+        {
+          "name": "m10.row1.0.bg",
+          "shape_id": 26,
+          "x": 0.67,
+          "y": 3.36,
+          "w": 1.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row1.0.text",
+          "shape_id": 27,
+          "x": 0.77,
+          "y": 3.47,
+          "w": 1.6,
+          "h": 0.62,
+          "placeholder": "[需求与排期]"
+        },
+        {
+          "name": "m10.row1.1.bg",
+          "shape_id": 28,
+          "x": 2.64,
+          "y": 3.36,
+          "w": 3.99,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row1.1.text",
+          "shape_id": 29,
+          "x": 2.74,
+          "y": 3.47,
+          "w": 3.79,
+          "h": 0.62,
+          "placeholder": "[根据本批证据写可能的做法；\n再说明对哪一步工作有帮助或代价。]"
+        },
+        {
+          "name": "m10.row1.2.bg",
+          "shape_id": 30,
+          "x": 6.8,
+          "y": 3.36,
+          "w": 2.89,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row1.2.text",
+          "shape_id": 31,
+          "x": 6.9,
+          "y": 3.47,
+          "w": 2.69,
+          "h": 0.62,
+          "placeholder": "[可看见、可核对的动作；\n不是笼统能力标签。]"
+        },
+        {
+          "name": "m10.row1.3.bg",
+          "shape_id": 32,
+          "x": 9.86,
+          "y": 3.36,
+          "w": 2.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row1.3.text",
+          "shape_id": 33,
+          "x": 9.96,
+          "y": 3.47,
+          "w": 2.6,
+          "h": 0.62,
+          "placeholder": "[与前面行为对应的\n任务安排或反馈动作。]"
+        },
+        {
+          "name": "m10.row2.0.bg",
+          "shape_id": 34,
+          "x": 0.67,
+          "y": 4.34,
+          "w": 1.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row2.0.text",
+          "shape_id": 35,
+          "x": 0.77,
+          "y": 4.45,
+          "w": 1.6,
+          "h": 0.62,
+          "placeholder": "[关键交付]"
+        },
+        {
+          "name": "m10.row2.1.bg",
+          "shape_id": 36,
+          "x": 2.64,
+          "y": 4.34,
+          "w": 3.99,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row2.1.text",
+          "shape_id": 37,
+          "x": 2.74,
+          "y": 4.45,
+          "w": 3.79,
+          "h": 0.62,
+          "placeholder": "[根据本批证据写可能的做法；\n再说明对哪一步工作有帮助或代价。]"
+        },
+        {
+          "name": "m10.row2.2.bg",
+          "shape_id": 38,
+          "x": 6.8,
+          "y": 4.34,
+          "w": 2.89,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row2.2.text",
+          "shape_id": 39,
+          "x": 6.9,
+          "y": 4.45,
+          "w": 2.69,
+          "h": 0.62,
+          "placeholder": "[可看见、可核对的动作；\n不是笼统能力标签。]"
+        },
+        {
+          "name": "m10.row2.3.bg",
+          "shape_id": 40,
+          "x": 9.86,
+          "y": 4.34,
+          "w": 2.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row2.3.text",
+          "shape_id": 41,
+          "x": 9.96,
+          "y": 4.45,
+          "w": 2.6,
+          "h": 0.62,
+          "placeholder": "[与前面行为对应的\n任务安排或反馈动作。]"
+        },
+        {
+          "name": "m10.row3.0.bg",
+          "shape_id": 42,
+          "x": 0.67,
+          "y": 5.32,
+          "w": 1.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row3.0.text",
+          "shape_id": 43,
+          "x": 0.77,
+          "y": 5.43,
+          "w": 1.6,
+          "h": 0.62,
+          "placeholder": "[跨团队协作]"
+        },
+        {
+          "name": "m10.row3.1.bg",
+          "shape_id": 44,
+          "x": 2.64,
+          "y": 5.32,
+          "w": 3.99,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row3.1.text",
+          "shape_id": 45,
+          "x": 2.74,
+          "y": 5.43,
+          "w": 3.79,
+          "h": 0.62,
+          "placeholder": "[根据本批证据写可能的做法；\n再说明对哪一步工作有帮助或代价。]"
+        },
+        {
+          "name": "m10.row3.2.bg",
+          "shape_id": 46,
+          "x": 6.8,
+          "y": 5.32,
+          "w": 2.89,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row3.2.text",
+          "shape_id": 47,
+          "x": 6.9,
+          "y": 5.43,
+          "w": 2.69,
+          "h": 0.62,
+          "placeholder": "[可看见、可核对的动作；\n不是笼统能力标签。]"
+        },
+        {
+          "name": "m10.row3.3.bg",
+          "shape_id": 48,
+          "x": 9.86,
+          "y": 5.32,
+          "w": 2.8,
+          "h": 0.86,
+          "placeholder": ""
+        },
+        {
+          "name": "m10.row3.3.text",
+          "shape_id": 49,
+          "x": 9.96,
+          "y": 5.43,
+          "w": 2.6,
+          "h": 0.62,
+          "placeholder": "[与前面行为对应的\n任务安排或反馈动作。]"
+        },
+        {
+          "name": "m10.limit",
+          "shape_id": 50,
+          "x": 0.74,
+          "y": 6.65,
+          "w": 11.85,
+          "h": 0.31,
+          "placeholder": "以上场景须按用户工作背景选择；没有实际记录时一律作为待验证假设，不描述成已发生问题。"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "fields": [
+        {
+          "name": "p11.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p11.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "群体总结：{最值得保留的优势与发展的重点}"
+        },
+        {
+          "name": "p11.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "可放大的优势 / 需管理的风险 / 对应的发展建议"
+        },
+        {
+          "name": "p11.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "11"
+        },
+        {
+          "name": "p11.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p11.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "m11.overview.bg",
+          "shape_id": 10,
+          "x": 0.68,
+          "y": 1.55,
+          "w": 11.98,
+          "h": 0.66,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.overview",
+          "shape_id": 11,
+          "x": 0.86,
+          "y": 1.7,
+          "w": 11.62,
+          "h": 0.35,
+          "placeholder": "[一句完整的群体画像；再概括当前最重要的工作关注，不只列分数。]"
+        },
+        {
+          "name": "m11.col0.bg",
+          "shape_id": 12,
+          "x": 0.68,
+          "y": 2.51,
+          "w": 3.84,
+          "h": 3.7,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.col0.stripe",
+          "shape_id": 13,
+          "x": 0.68,
+          "y": 2.48,
+          "w": 3.84,
+          "h": 0.045,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.col0.heading",
+          "shape_id": 14,
+          "x": 0.85,
+          "y": 2.67,
+          "w": 3.5,
+          "h": 0.34,
+          "placeholder": "可放大的优势"
+        },
+        {
+          "name": "m11.col0.sub",
+          "shape_id": 15,
+          "x": 0.85,
+          "y": 3.07,
+          "w": 3.5,
+          "h": 0.27,
+          "placeholder": "日常风格 × 投入动机"
+        },
+        {
+          "name": "m11.col0.row0.title",
+          "shape_id": 16,
+          "x": 0.85,
+          "y": 3.51,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[优势：帮助哪一步工作]"
+        },
+        {
+          "name": "m11.col0.row0.body",
+          "shape_id": 17,
+          "x": 0.85,
+          "y": 3.81,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[说明任务中的可能价值；\n成效仍须结合实际成果验证。]"
+        },
+        {
+          "name": "m11.col0.row1.title",
+          "shape_id": 18,
+          "x": 0.85,
+          "y": 4.34,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[优势：帮助哪一步工作]"
+        },
+        {
+          "name": "m11.col0.row1.body",
+          "shape_id": 19,
+          "x": 0.85,
+          "y": 4.64,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[说明任务中的可能价值；\n成效仍须结合实际成果验证。]"
+        },
+        {
+          "name": "m11.col0.row2.title",
+          "shape_id": 20,
+          "x": 0.85,
+          "y": 5.17,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[优势：帮助哪一步工作]"
+        },
+        {
+          "name": "m11.col0.row2.body",
+          "shape_id": 21,
+          "x": 0.85,
+          "y": 5.47,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[说明任务中的可能价值；\n成效仍须结合实际成果验证。]"
+        },
+        {
+          "name": "m11.col1.bg",
+          "shape_id": 22,
+          "x": 4.75,
+          "y": 2.51,
+          "w": 3.84,
+          "h": 3.7,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.col1.stripe",
+          "shape_id": 23,
+          "x": 4.75,
+          "y": 2.48,
+          "w": 3.84,
+          "h": 0.045,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.col1.heading",
+          "shape_id": 24,
+          "x": 4.92,
+          "y": 2.67,
+          "w": 3.5,
+          "h": 0.34,
+          "placeholder": "需管理的风险"
+        },
+        {
+          "name": "m11.col1.sub",
+          "shape_id": 25,
+          "x": 4.92,
+          "y": 3.07,
+          "w": 3.5,
+          "h": 0.27,
+          "placeholder": "高压与责任扩大时观察"
+        },
+        {
+          "name": "m11.col1.row0.title",
+          "shape_id": 26,
+          "x": 4.92,
+          "y": 3.51,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[风险：影响什么工作]"
+        },
+        {
+          "name": "m11.col1.row0.body",
+          "shape_id": 27,
+          "x": 4.92,
+          "y": 3.81,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[说明具体行为与一步后果；\n不是已发生问题的断言。]"
+        },
+        {
+          "name": "m11.col1.row1.title",
+          "shape_id": 28,
+          "x": 4.92,
+          "y": 4.34,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[风险：影响什么工作]"
+        },
+        {
+          "name": "m11.col1.row1.body",
+          "shape_id": 29,
+          "x": 4.92,
+          "y": 4.64,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[说明具体行为与一步后果；\n不是已发生问题的断言。]"
+        },
+        {
+          "name": "m11.col1.row2.title",
+          "shape_id": 30,
+          "x": 4.92,
+          "y": 5.17,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[风险：影响什么工作]"
+        },
+        {
+          "name": "m11.col1.row2.body",
+          "shape_id": 31,
+          "x": 4.92,
+          "y": 5.47,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[说明具体行为与一步后果；\n不是已发生问题的断言。]"
+        },
+        {
+          "name": "m11.col2.bg",
+          "shape_id": 32,
+          "x": 8.82,
+          "y": 2.51,
+          "w": 3.84,
+          "h": 3.7,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.col2.stripe",
+          "shape_id": 33,
+          "x": 8.82,
+          "y": 2.48,
+          "w": 3.84,
+          "h": 0.045,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.col2.heading",
+          "shape_id": 34,
+          "x": 8.99,
+          "y": 2.67,
+          "w": 3.5,
+          "h": 0.34,
+          "placeholder": "对应的发展建议"
+        },
+        {
+          "name": "m11.col2.sub",
+          "shape_id": 35,
+          "x": 8.99,
+          "y": 3.07,
+          "w": 3.5,
+          "h": 0.27,
+          "placeholder": "从实际任务与反馈中发展"
+        },
+        {
+          "name": "m11.col2.row0.title",
+          "shape_id": 36,
+          "x": 8.99,
+          "y": 3.51,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[建议：对应前面的行为]"
+        },
+        {
+          "name": "m11.col2.row0.body",
+          "shape_id": 37,
+          "x": 8.99,
+          "y": 3.81,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[写具体安排、反馈或观察；\n不新增无依据的培养项目。]"
+        },
+        {
+          "name": "m11.col2.row1.title",
+          "shape_id": 38,
+          "x": 8.99,
+          "y": 4.34,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[建议：对应前面的行为]"
+        },
+        {
+          "name": "m11.col2.row1.body",
+          "shape_id": 39,
+          "x": 8.99,
+          "y": 4.64,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[写具体安排、反馈或观察；\n不新增无依据的培养项目。]"
+        },
+        {
+          "name": "m11.col2.row2.title",
+          "shape_id": 40,
+          "x": 8.99,
+          "y": 5.17,
+          "w": 3.5,
+          "h": 0.25,
+          "placeholder": "[建议：对应前面的行为]"
+        },
+        {
+          "name": "m11.col2.row2.body",
+          "shape_id": 41,
+          "x": 8.99,
+          "y": 5.47,
+          "w": 3.5,
+          "h": 0.39,
+          "placeholder": "[写具体安排、反馈或观察；\n不新增无依据的培养项目。]"
+        },
+        {
+          "name": "m11.impact.bg",
+          "shape_id": 42,
+          "x": 0.68,
+          "y": 6.46,
+          "w": 11.98,
+          "h": 0.49,
+          "placeholder": ""
+        },
+        {
+          "name": "m11.impact.title",
+          "shape_id": 43,
+          "x": 0.83,
+          "y": 6.55,
+          "w": 1.44,
+          "h": 0.23,
+          "placeholder": "业务与组织影响"
+        },
+        {
+          "name": "m11.impact.positive",
+          "shape_id": 44,
+          "x": 2.43,
+          "y": 6.55,
+          "w": 4.78,
+          "h": 0.23,
+          "placeholder": "正向价值：[对哪些任务有帮助]"
+        },
+        {
+          "name": "m11.impact.risk",
+          "shape_id": 45,
+          "x": 7.43,
+          "y": 6.55,
+          "w": 5.06,
+          "h": 0.23,
+          "placeholder": "需要防范：[什么条件下影响交付]"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "fields": [
+        {
+          "name": "p10.header.blue",
+          "shape_id": 2,
+          "x": 0.5,
+          "y": 0.38,
+          "w": 0.055,
+          "h": 0.34,
+          "placeholder": ""
+        },
+        {
+          "name": "p10.title",
+          "shape_id": 3,
+          "x": 0.72,
+          "y": 0.23,
+          "w": 11.65,
+          "h": 0.6,
+          "placeholder": "阅读指南：先看倾向与证据，再用工作表现验证"
+        },
+        {
+          "name": "p10.subtitle",
+          "shape_id": 4,
+          "x": 0.72,
+          "y": 0.86,
+          "w": 11.7,
+          "h": 0.34,
+          "placeholder": "方法与保密边界  /  不以单项分数替代人才判断"
+        },
+        {
+          "name": "p10.index",
+          "shape_id": 6,
+          "x": 12.39,
+          "y": 0.32,
+          "w": 0.43,
+          "h": 0.36,
+          "placeholder": "12"
+        },
+        {
+          "name": "p10.footer",
+          "shape_id": 8,
+          "x": 0.55,
+          "y": 7.21,
+          "w": 9.0,
+          "h": 0.16,
+          "placeholder": "{批次} · 样本 {N} 人  |  内部使用 · 结论需结合实际表现验证"
+        },
+        {
+          "name": "p10.template_mark",
+          "shape_id": 9,
+          "x": 10.18,
+          "y": 7.21,
+          "w": 2.64,
+          "h": 0.16,
+          "placeholder": "空白模板 · 无真实数据"
+        },
+        {
+          "name": "p10.HPI.bg",
+          "shape_id": 10,
+          "x": 0.64,
+          "y": 1.56,
+          "w": 3.91,
+          "h": 1.63,
+          "placeholder": ""
+        },
+        {
+          "name": "p10.HPI.name",
+          "shape_id": 11,
+          "x": 0.82,
+          "y": 1.73,
+          "w": 3.55,
+          "h": 0.31,
+          "placeholder": "HPI"
+        },
+        {
+          "name": "p10.HPI.sub",
+          "shape_id": 12,
+          "x": 0.82,
+          "y": 2.17,
+          "w": 3.55,
+          "h": 0.25,
+          "placeholder": "平时怎样做事"
+        },
+        {
+          "name": "p10.HPI.body",
+          "shape_id": 13,
+          "x": 0.82,
+          "y": 2.54,
+          "w": 3.55,
+          "h": 0.44,
+          "placeholder": "日常如何承担任务、安排工作、\n学习新东西和与人合作。"
+        },
+        {
+          "name": "p10.HDS.bg",
+          "shape_id": 14,
+          "x": 4.82,
+          "y": 1.56,
+          "w": 3.91,
+          "h": 1.63,
+          "placeholder": ""
+        },
+        {
+          "name": "p10.HDS.name",
+          "shape_id": 15,
+          "x": 5.0,
+          "y": 1.73,
+          "w": 3.55,
+          "h": 0.31,
+          "placeholder": "HDS"
+        },
+        {
+          "name": "p10.HDS.sub",
+          "shape_id": 16,
+          "x": 5.0,
+          "y": 2.17,
+          "w": 3.55,
+          "h": 0.25,
+          "placeholder": "压力下可能怎样反应"
+        },
+        {
+          "name": "p10.HDS.body",
+          "shape_id": 17,
+          "x": 5.0,
+          "y": 2.54,
+          "w": 3.55,
+          "h": 0.44,
+          "placeholder": "特定状态下某些倾向可能被放大，\n并影响任务推进或合作。"
+        },
+        {
+          "name": "p10.MVPI.bg",
+          "shape_id": 18,
+          "x": 9.0,
+          "y": 1.56,
+          "w": 3.91,
+          "h": 1.63,
+          "placeholder": ""
+        },
+        {
+          "name": "p10.MVPI.name",
+          "shape_id": 19,
+          "x": 9.18,
+          "y": 1.73,
+          "w": 3.55,
+          "h": 0.31,
+          "placeholder": "MVPI"
+        },
+        {
+          "name": "p10.MVPI.sub",
+          "shape_id": 20,
+          "x": 9.18,
+          "y": 2.17,
+          "w": 3.55,
+          "h": 0.25,
+          "placeholder": "重视什么、为什么投入"
+        },
+        {
+          "name": "p10.MVPI.body",
+          "shape_id": 21,
+          "x": 9.18,
+          "y": 2.54,
+          "w": 3.55,
+          "h": 0.44,
+          "placeholder": "哪些目标和工作环境更有吸引力；\n动机偏好不是能力。"
+        },
+        {
+          "name": "p10.section0.title",
+          "shape_id": 22,
+          "x": 0.65,
+          "y": 3.61,
+          "w": 5.86,
+          "h": 0.35,
+          "placeholder": "统计与来源"
+        },
+        {
+          "name": "p10.section0.body",
+          "shape_id": 23,
+          "x": 0.68,
+          "y": 4.15,
+          "w": 5.88,
+          "h": 1.81,
+          "placeholder": "样本：{N}；常模/版本：{来源原文}。\n均值、中位值、范围、人数均来自同一批可比数据。\n分档：{与当批报告核对后填写}。\n来源文件与实际页码：{仅写必要信息}。"
+        },
+        {
+          "name": "p10.section1.title",
+          "shape_id": 24,
+          "x": 6.95,
+          "y": 3.61,
+          "w": 5.86,
+          "h": 0.35,
+          "placeholder": "解释与保密"
+        },
+        {
+          "name": "p10.section1.body",
+          "shape_id": 25,
+          "x": 6.98,
+          "y": 4.15,
+          "w": 5.88,
+          "h": 1.81,
+          "placeholder": "事实、计算、推断分开；没有业务背景就不编造案例。\n不把相对低分写成短板，不把风险倾向写成真实问题。\n群体默认编号；实名或映射附录需本次受众授权。\n真实数据、报告和图像不进入公共GitHub仓库。"
+        },
+        {
+          "name": "p10.limit",
+          "shape_id": 26,
+          "x": 0.75,
+          "y": 6.52,
+          "w": 11.83,
+          "h": 0.37,
+          "placeholder": "测评用于发展性反馈；不是临床诊断，也不作为自动招聘筛选、排名、任用或淘汰依据。"
+        }
+      ]
+    }
+  ],
+  "note": "从空白图形构造；人数、标色、标签和身份显示须按本次任务确认。只重建模板，不填写真实分析。"
+}

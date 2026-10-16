@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "data_kind": "synthetic",
+  "batch": {
+    "label": "虚构格式样例",
+    "year": "2099",
+    "norm": "SYNTHETIC-NOT-A-NORM",
+    "score_type": "percentile",
+    "mean_includes_self": true,
+    "comparison_scope": "current_batch",
+    "expected_count": 3
+  },
+  "participants": [
+    {
+      "id": "SYN001",
+      "alias": "SYN001",
+      "scores": {
+        "HPI": {
+          "调适": 22,
+          "抱负": 22,
+          "社交": 22,
+          "人际敏感度": 22,
+          "审慎": 22,
+          "好奇": 22,
+          "学习方式": 22
+        },
+        "HDS": {
+          "激动": 42,
+          "多疑": 42,
+          "谨慎": 42,
+          "内敛": 42,
+          "消极": 42,
+          "自大": 42,
+          "狡猾": 42,
+          "戏剧化": 42,
+          "幻想": 42,
+          "苛求": 42,
+          "恭顺": 42
+        },
+        "MVPI": {
+          "认可": 62,
+          "权力": 62,
+          "享乐": 62,
+          "利他": 62,
+          "归属": 62,
+          "传统": 62,
+          "保障": 62,
+          "商业": 62,
+          "美感": 62,
+          "科学": 62
+        }
+      },
+      "sources": {
+        "HPI": {
+          "file": "HPI-SYN001-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        },
+        "HDS": {
+          "file": "HDS-SYN001-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        },
+        "MVPI": {
+          "file": "MVPI-SYN001-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        }
+      },
+      "crosscheck": {
+        "HPI": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        },
+        "HDS": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        },
+        "MVPI": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        }
+      }
+    },
+    {
+      "id": "SYN002",
+      "alias": "SYN002",
+      "scores": {
+        "HPI": {
+          "调适": 46,
+          "抱负": 46,
+          "社交": 46,
+          "人际敏感度": 46,
+          "审慎": 46,
+          "好奇": 46,
+          "学习方式": 46
+        },
+        "HDS": {
+          "激动": 66,
+          "多疑": 66,
+          "谨慎": 66,
+          "内敛": 66,
+          "消极": 66,
+          "自大": 66,
+          "狡猾": 66,
+          "戏剧化": 66,
+          "幻想": 66,
+          "苛求": 66,
+          "恭顺": 66
+        },
+        "MVPI": {
+          "认可": 86,
+          "权力": 86,
+          "享乐": 86,
+          "利他": 86,
+          "归属": 86,
+          "传统": 86,
+          "保障": 86,
+          "商业": 86,
+          "美感": 86,
+          "科学": 86
+        }
+      },
+      "sources": {
+        "HPI": {
+          "file": "HPI-SYN002-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        },
+        "HDS": {
+          "file": "HDS-SYN002-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        },
+        "MVPI": {
+          "file": "MVPI-SYN002-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        }
+      },
+      "crosscheck": {
+        "HPI": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        },
+        "HDS": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        },
+        "MVPI": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        }
+      }
+    },
+    {
+      "id": "SYN003",
+      "alias": "SYN003",
+      "scores": {
+        "HPI": {
+          "调适": 70,
+          "抱负": 70,
+          "社交": 70,
+          "人际敏感度": 70,
+          "审慎": 70,
+          "好奇": 70,
+          "学习方式": 70
+        },
+        "HDS": {
+          "激动": 50,
+          "多疑": 50,
+          "谨慎": 50,
+          "内敛": 50,
+          "消极": 50,
+          "自大": 50,
+          "狡猾": 50,
+          "戏剧化": 50,
+          "幻想": 50,
+          "苛求": 50,
+          "恭顺": 50
+        },
+        "MVPI": {
+          "认可": 30,
+          "权力": 30,
+          "享乐": 30,
+          "利他": 30,
+          "归属": 30,
+          "传统": 30,
+          "保障": 30,
+          "商业": 30,
+          "美感": 30,
+          "科学": 30
+        }
+      },
+      "sources": {
+        "HPI": {
+          "file": "HPI-SYN003-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        },
+        "HDS": {
+          "file": "HDS-SYN003-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        },
+        "MVPI": {
+          "file": "MVPI-SYN003-NOT-A-REAL-REPORT.pdf",
+          "overview_page": 1
+        }
+      },
+      "crosscheck": {
+        "HPI": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        },
+        "HDS": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        },
+        "MVPI": {
+          "status": "single_source_reviewed",
+          "note": "合成样例：无实际PDF，仅用于程序测试；不构成真实核验。"
+        }
+      }
+    }
+  ]
+}
