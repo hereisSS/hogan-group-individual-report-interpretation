@@ -3,7 +3,7 @@ name: hogan-personal-report
 description: 将获授权的Hogan HPI、HDS、MVPI报告转为可核对雷达图、可编辑个人PPT和群体PPT，按明确请求支持跨批次比较。用于上传测评PDF/压缩包、批量人才发展分析、复用报告模板或改写Hogan画像时。先核验来源及统计口径、交付雷达图，真实确认后完成报告；个人核心画像以HPI及HPI内部组合为主，群体结论结合分布，直白写清工作场景、行为和影响。内置无真实数据的个人与群体PPT模板、保密规范和输入清单。不用于自动招聘筛选、人才排名、任用决策或临床诊断。
 compatibility: 需要文件/PDF阅读、确定性计算与绘图、PPTX编辑及渲染能力；校验脚本使用Python 3.10+标准库。模板重建另需python-pptx。实际报告仅在组织认可的环境中处理，上传前须确认权限。
 metadata:
-  version: "2.1.0"
+  version: "1.0"
   language: "zh-CN"
   scope: "individual-group-optional-comparison"
 ---
@@ -48,7 +48,7 @@ metadata:
 模板优先级：本次指定的内部模板 > 明确指定且可访问的历史模板 > 内置空白模板。内置实际文件：
 - `assets/templates/individual-report-template.pptx`：1页，HPI左、HDS中、MVPI右。
 - `assets/templates/group-management-template.pptx`：12页管理解读群体模板（默认完整结构）。
-- `assets/templates/group-report-template.pptx`：兼容v2.0的10页群体模板。
+- `assets/templates/group-report-template.pptx`：兼容v1.0的10页群体模板。
 
 先记录输出结构、统计量、受众、姓名展示方式及参考图。具体页码、实名名单和颜色属于本次配置，不机械继承下一批。配置可用`python scripts/plan_report.py "$RUN/request.json" --out "$RUN/report_plan.json"`检查；脚本不验证真实授权。
 
